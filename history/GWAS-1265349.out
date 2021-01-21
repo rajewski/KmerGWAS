@@ -1,0 +1,10 @@
+Error in if (!is.symmetric.matrix(x)) stop("argument x is not a symmetric matrix") : 
+  missing value where TRUE/FALSE needed
+Calls: is.positive.semi.definite
+Execution halted
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 283, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 112, in main
+    phenotypes_names = file(paths["pheno_permuted_fn"] ,"r").read().split("\n")[0].split("\t")[1:]
+IOError: [Errno 2] No such file or directory: 'output_dir/pheno.phenotypes_and_permutations'

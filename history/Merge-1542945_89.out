@@ -1,0 +1,11 @@
+Combining both kmer counts for A7
+Canonized kmers:	100854316
+Non-canon kmers:	126783058
+Non-canon kmers found:	114063814
+flag	0	count is	0
+flag	1	count is	47930722
+flag	2	count is	39714096
+flag	3	count is	13209498
+kmers to save:	100854316
+Done.
+Cleaning up the massive kmc files and quitting.

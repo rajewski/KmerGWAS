@@ -1,0 +1,11 @@
+Prefetching ERR251103...
+
+2020-05-21T23:18:04 prefetch.2.10.0: 1) Downloading 'ERR251103'...
+2020-05-21T23:18:04 prefetch.2.10.0:  Downloading via https...
+2020-05-22T01:49:46 prefetch.2.10.0:  https download succeed
+2020-05-22T01:49:46 prefetch.2.10.0: 1) 'ERR251103' was downloaded successfully
+Done.
+Dumping fastq file for ERR251103
+Read 64922595 spots for ERR251103
+Written 64922595 spots for ERR251103
+Done.

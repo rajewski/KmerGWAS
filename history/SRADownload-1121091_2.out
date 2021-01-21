@@ -1,0 +1,20 @@
+Downloading ERR3961607 data from SRA...
+Prefetching ERR3961607...
+
+2020-05-09T19:30:44 prefetch.2.10.0: 1) Downloading 'ERR3961607'...
+2020-05-09T19:30:44 prefetch.2.10.0:  Downloading via https...
+2020-05-09T20:11:26 prefetch.2.10.0 int: timeout exhausted while reading file within network system module - Cannot KStreamRead: https://sra-download.ncbi.nlm.nih.gov/traces/era19/ERR/ERR3961/ERR3961607
+2020-05-09T20:11:26 prefetch.2.10.0:  https download failed
+2020-05-09T20:11:27 prefetch.2.10.0: 1) failed to download ERR3961607
+Done.
+Dumping fastq file for ERR3961607
+2020-05-09T20:14:22 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed ERR3961607
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

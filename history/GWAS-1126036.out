@@ -1,0 +1,16 @@
+
+ *** caught illegal operation ***
+address 0x2b2b09d63ca2, cause 'illegal operand'
+
+Traceback:
+ 1: readRDS(mapfile)
+ 2: ..lazyLoad(basedb, baseenv())
+ 3: NULL
+An irrecoverable exception occurred. R is aborting now ...
+sh: line 1: 13638 Illegal instruction     Rscript /bigdata/littlab/arajewski/kmerGWAS/software/src/R/transform_and_permute_phenotypes.R output_dir/pheno.phenotypes output_dir/pheno.kinship 100 output_dir/pheno.phenotypes_and_permutations output_dir/pheno.phenotypes_permuted_transformed output_dir/EMMA_perm.log > output_dir/phenotypes_transformation_permutation.log
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 279, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 108, in main
+    phenotypes_names = file(paths["pheno_permuted_fn"] ,"r").read().split("\n")[0].split("\t")[1:]
+IOError: [Errno 2] No such file or directory: 'output_dir/pheno.phenotypes_and_permutations'

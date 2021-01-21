@@ -1,0 +1,11 @@
+Combining both kmer counts for C9
+Canonized kmers:	74902194
+Non-canon kmers:	110888561
+Non-canon kmers found:	83241347
+flag	0	count is	0
+flag	1	count is	36348729
+flag	2	count is	30214312
+flag	3	count is	8339153
+kmers to save:	74902194
+Done.
+Cleaning up the massive kmc files and quitting.

@@ -1,0 +1,291 @@
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00211318
+Reading SNPs                                                    0.00%gsl: brent.c:57: ERROR: function value is not finite
+Default GSL error handler invoked.
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00477294
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.0245892
+se(pve) =1.63468
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00537654
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00469788
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00638993
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =1.57992
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.0164333
+Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs  =====                                             10.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.792671
+se(pve) =3.17868
+Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =1.55296
+Reading SNPs  =====                                             10.00%Reading SNPs                                                    0.00%Reading SNPs  =====                                             10.00%Reading SNPs                                                    0.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.00660971
+Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs                                                    0.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs  =====                                             10.00%Reading SNPs                                                    0.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =0.999979
+se(pve) =0.0068525
+## number of total individuals = 11
+## number of analyzed individuals = 11
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000000
+## number of analyzed SNPs = 1000000
+Start Eigen-Decomposition...
+pve estimate =4.86581e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs  =====                                             10.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  =====                                             10.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  =====                                             10.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  =====                                             10.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  =====                                             10.00%Reading SNPs  ==========                                        20.00%Reading SNPs  =====                                             10.00%Reading SNPs  =====                                             10.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ==========                                        20.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ====================                              40.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ====================                              40.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ===============                                   30.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  ====================                              40.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  ====================                              40.00%Reading SNPs  =========================                         50.00%Reading SNPs  ====================                              40.00%Reading SNPs  ====================                              40.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ====================                              40.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  =========================                         50.00%Reading SNPs  =========================                         50.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  =========================                         50.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ===================================               70.00%Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ==============================                    60.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  ===================================               70.00%Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%
+Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  ========================================          80.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  =============================================     90.00%Reading SNPs  ========================================          80.00%Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%Reading SNPs  ===================================               70.00%Reading SNPs  =============================================     90.00%
+Reading SNPs  ========================================          80.00%Reading SNPs  ==================================================100.00%Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+
+Reading SNPs  =============================================     90.00%
+
+Reading SNPs  ==================================================100.00%
+Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%Reading SNPs  =============================================     90.00%
+Reading SNPs  ==================================================100.00%
+
+Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  =============================================     90.00%
+Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  =============================================     90.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ========================================          80.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%
+Reading SNPs  =============================================     90.00%Reading SNPs  ==================================================100.00%
+cat: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+cat: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+gzip: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+affective MAF = 0.0909090909091

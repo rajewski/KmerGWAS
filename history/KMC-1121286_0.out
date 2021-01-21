@@ -1,0 +1,2 @@
+Combining both kmer counts for HG00304
+/var/spool/slurmd/job1121286/slurm_script: line 57:  1881 Bus error               kmers_add_strand_information -c output_kmc_canon -n output_kmc_all -k 31 -o kmers_with_strand

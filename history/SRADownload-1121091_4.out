@@ -1,0 +1,13 @@
+Downloading ERR3961611 data from SRA...
+Prefetching ERR3961611...
+
+2020-05-09T19:30:42 prefetch.2.10.0: 1) Downloading 'ERR3961611'...
+2020-05-09T19:30:42 prefetch.2.10.0:  Downloading via https...
+2020-05-09T19:50:49 prefetch.2.10.0:  https download succeed
+2020-05-09T19:50:49 prefetch.2.10.0: 1) 'ERR3961611' was downloaded successfully
+2020-05-09T19:50:49 prefetch.2.10.0: 'ERR3961611' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR3961611
+Read 29894546 spots for ERR3961611
+Written 29894546 spots for ERR3961611
+Done.

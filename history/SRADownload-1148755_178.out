@@ -1,0 +1,24 @@
+Prefetching SRR1604313...
+
+2020-05-21T04:35:42 prefetch.2.10.0 warn: Maximum file size download limit is 20GB 
+2020-05-21T04:35:42 prefetch.2.10.0: 1) 'SRR1604313' (25GB) is larger than maximum allowed: skipped 
+2020-05-21T04:35:42 prefetch.2.10.0: 1) Downloading 'SRR1604313.vdbcache'...
+2020-05-21T04:35:42 prefetch.2.10.0:  Downloading via https...
+2020-05-21T04:41:06 prefetch.2.10.0:  https download succeed
+2020-05-21T04:41:06 prefetch.2.10.0: 1) 'SRR1604313.vdbcache' was downloaded successfully
+
+Download of some files was skipped because they are too large
+You can change size download limit by setting
+--min-size and --max-size command line arguments
+Done.
+Dumping fastq file for SRR1604313
+2020-05-21T04:51:36 fastq-dump.2.10.0 err: data corrupt while selecting function within transform module - failed SRR1604313
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

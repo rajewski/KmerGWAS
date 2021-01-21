@@ -1,0 +1,11 @@
+Combining both kmer counts for F2
+Canonized kmers:	7452136
+Non-canon kmers:	43281254
+Non-canon kmers found:	9904832
+flag	0	count is	0
+flag	1	count is	2546812
+flag	2	count is	2452628
+flag	3	count is	2452696
+kmers to save:	7452136
+Done.
+Cleaning up the massive kmc files and quitting.

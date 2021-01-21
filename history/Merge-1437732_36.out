@@ -1,0 +1,3 @@
+Combining both kmer counts for 42683
+/var/spool/slurmd/job1437786/slurm_script: line 36: 121324 Killed                  kmers_add_strand_information -c output_kmc_canon -n output_kmc_all -k 31 -o kmers_with_strand
+slurmstepd-i27: error: Detected 1 oom-kill event(s) in step 1437786.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

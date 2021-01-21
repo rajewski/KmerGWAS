@@ -1,0 +1,11 @@
+Combining both kmer counts for NEWMETNormal
+Canonized kmers:	2564843921
+Non-canon kmers:	12621371482
+Non-canon kmers found:	4830864295
+flag	0	count is	0
+flag	1	count is	146875878
+flag	2	count is	151947669
+flag	3	count is	2266020374
+kmers to save:	2564843921
+Done.
+Cleaning up the massive kmc files and quitting.

@@ -1,0 +1,9 @@
+Combining both kmer counts for NA18978
+Canonized kmers:	2106181803
+Non-canon kmers:	5157736034
+Non-canon kmers found:	3984913434
+flag	0	count is	0
+flag	1	count is	113636871
+flag	2	count is	113813301
+flag	3	count is	1878731631
+slurmstepd-i05: error: *** JOB 1121699 ON i05 CANCELLED AT 2020-05-09T17:55:22 ***

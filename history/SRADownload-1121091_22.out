@@ -1,0 +1,13 @@
+Downloading ERR4079560 data from SRA...
+Prefetching ERR4079560...
+
+2020-05-09T19:30:45 prefetch.2.10.0: 1) Downloading 'ERR4079560'...
+2020-05-09T19:30:45 prefetch.2.10.0:  Downloading via https...
+2020-05-09T20:05:43 prefetch.2.10.0:  https download succeed
+2020-05-09T20:05:43 prefetch.2.10.0: 1) 'ERR4079560' was downloaded successfully
+2020-05-09T20:05:43 prefetch.2.10.0: 'ERR4079560' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR4079560
+Read 43395150 spots for ERR4079560
+Written 43395150 spots for ERR4079560
+Done.

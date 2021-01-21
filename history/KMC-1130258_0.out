@@ -1,0 +1,37 @@
+Count cannonical kmers for MB140_Normal
+*************
+
+********** Used parameters: **********
+No. of input files           : 2
+Output file name             : output_kmc_canon
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 31
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 3
+Max. count threshold         : 1000000000
+Max. counter value           : 255
+Both strands                 : true
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 25165824
+
+No. of readers               : 2
+No. of splitters             : 28
+
+Max. mem. size               : 140000MB
+Max. mem. per storer         : 101374MB
+Max. mem. for single package :   395MB
+
+Max. mem. for PMM (bin parts): 135166MB
+Max. mem. for PMM (FASTQ)    :  3179MB
+Max. mem. for PMM (reads)    :    29MB
+Max. mem. for PMM (b. reader):  1610MB
+
+Stage 1: 0%Stage 1: 2%Stage 1: 5%Stage 1: 8%Stage 1: 10%Stage 1: 13%Stage 1: 16%Stage 1: 18%Stage 1: 21%Stage 1: 24%Stage 1: 27%Stage 1: 29%Stage 1: 32%Stage 1: 35%Stage 1: 37%Stage 1: 40%Stage 1: 43%Stage 1: 46%Stage 1: 48%Stage 1: 51%Stage 1: 54%Stage 1: 56%Stage 1: 59%Stage 1: 62%Stage 1: 64%Stage 1: 67%Stage 1: 70%Stage 1: 72%Stage 1: 75%Stage 1: 78%Stage 1: 80%/var/spool/slurmd/job1130258/slurm_script: line 35: 116486 Segmentation fault      kmc -k31 -v -t$SLURM_CPUS_PER_TASK -m$((SLURM_MEM_PER_NODE/1024)) -ci3 @input_files.txt output_kmc_canon ./ echo Done.

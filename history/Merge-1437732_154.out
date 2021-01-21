@@ -1,0 +1,11 @@
+Combining both kmer counts for N5
+Canonized kmers:	2426984
+Non-canon kmers:	8103806
+Non-canon kmers found:	2709037
+flag	0	count is	0
+flag	1	count is	1078308
+flag	2	count is	1066623
+flag	3	count is	282053
+kmers to save:	2426984
+Done.
+Cleaning up the massive kmc files and quitting.

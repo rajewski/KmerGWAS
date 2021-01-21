@@ -1,0 +1,14 @@
+import: unable to open X server `' @ error/import.c/ImportImageCommand/369.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/369.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/369.
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 26: paths: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 28: paths[base_path]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 30: paths[gen_script]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 32: paths[assoicate_kmers]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 34: paths[associate_snps]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 36: paths[Permute_phenotype]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 38: paths[kinship_intersect_script]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 40: paths[parser_script]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 42: paths[average_pheno_script]: command not found
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 45: syntax error near unexpected token `paths["gen_script"]'
+/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py: line 45: `execfile(paths["gen_script"])'

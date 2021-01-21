@@ -1,0 +1,18 @@
+Downloading ERR3961606 data from SRA...
+/var/spool/slurmd/job1126741/slurm_script: line 17: [: ERR3961606_1.fastq.gz: binary operator expected
+Running Trim Galore on ERR3961606...
+Using an excessive number of cores has a diminishing return! It is recommended not to exceed 8 cores per trimming process (you asked for 8 cores). Please consider re-specifying
+Path to Cutadapt set as: 'cutadapt' (default)
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt version: 2.10
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 8 cores
+
+No quality encoding type selected. Assuming that the data provided uses Sanger encoded Phred scores (default)
+
+Output will be written into the directory: /bigdata/littlab/arajewski/kmerGWAS/Data/Trimmed/
+pigz: skipping: ERR3961606_1.fq.gz does not exist
+Input file 'ERR3961606_1.fq.gz' seems to be completely empty. Consider respecifying!
+
+Done.

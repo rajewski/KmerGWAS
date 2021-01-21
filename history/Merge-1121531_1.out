@@ -1,0 +1,11 @@
+Combining both kmer counts for HG00309
+Canonized kmers:	2507198287
+Non-canon kmers:	6116114511
+Non-canon kmers found:	4912405518
+flag	0	count is	0
+flag	1	count is	51028104
+flag	2	count is	50962952
+flag	3	count is	2405207231
+kmers to save:	2507198287
+Done.
+Cleaning up the massive kmc files and quitting.

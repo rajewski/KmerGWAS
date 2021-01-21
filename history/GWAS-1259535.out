@@ -1,0 +1,291 @@
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00170904
+Reading SNPs                                                    0.00%Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =1.68829
+Reading SNPs                                                    0.00%Reading Files ... 
+gsl: brent.c:202: ERROR: function value is not finite
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =-nan
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00759954
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.537814
+se(pve) =2.50487
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.0054326
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =-nan
+## number of total individuals = 39
+Reading SNPs                                                    0.00%## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00368518
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =-nan
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =5.51666
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00508474
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.0035836
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.252464
+se(pve) =1.03518
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.257835
+se(pve) =2.20354
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =-nan
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00547689
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00331379
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =4.17282e-06
+se(pve) =1.0684
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00457233
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00399389
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00390734
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.0213135
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.0116299
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.00286027
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999976
+se(pve) =0.0215893
+Reading SNPs                                                    0.00%Reading SNPs                                                    0.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+
+
+
+
+Reading SNPs  ==================================================100.00%
+
+
+
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%
+
+
+
+Reading SNPs  ==================================================100.00%
+
+
+cat: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+cat: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+gzip: output_dir/kmers/output/phenotype_value.assoc.txt: No such file or directory
+affective MAF = 0.05

@@ -1,0 +1,11 @@
+Combining both kmer counts for G7
+Canonized kmers:	77005944
+Non-canon kmers:	82934938
+Non-canon kmers found:	82934938
+flag	0	count is	0
+flag	1	count is	39316664
+flag	2	count is	31760286
+flag	3	count is	5928994
+kmers to save:	77005944
+Done.
+Cleaning up the massive kmc files and quitting.

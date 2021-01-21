@@ -1,0 +1,12 @@
+Prefetching ERR251574...
+
+2020-05-21T23:18:34 prefetch.2.10.0: 1) Downloading 'ERR251574'...
+2020-05-21T23:18:34 prefetch.2.10.0:  Downloading via https...
+2020-05-22T02:09:55 prefetch.2.10.0:  https download succeed
+2020-05-22T02:09:55 prefetch.2.10.0: 1) 'ERR251574' was downloaded successfully
+2020-05-22T02:09:55 prefetch.2.10.0: 'ERR251574' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR251574
+Read 59580810 spots for ERR251574
+Written 59580810 spots for ERR251574
+Done.

@@ -1,0 +1,11 @@
+Combining both kmer counts for NA19001
+Canonized kmers:	2532594157
+Non-canon kmers:	6260480634
+Non-canon kmers found:	4988497387
+flag	0	count is	0
+flag	1	count is	38427826
+flag	2	count is	38263101
+flag	3	count is	2455903230
+kmers to save:	2532594157
+Done.
+Cleaning up the massive kmc files and quitting.

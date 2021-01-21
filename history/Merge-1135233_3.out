@@ -1,0 +1,11 @@
+Combining both kmer counts for MB2A11Tumor
+Canonized kmers:	2615304759
+Non-canon kmers:	13105311566
+Non-canon kmers found:	4825276501
+flag	0	count is	0
+flag	1	count is	198004144
+flag	2	count is	207328873
+flag	3	count is	2209971742
+kmers to save:	2615304759
+Done.
+Cleaning up the massive kmc files and quitting.

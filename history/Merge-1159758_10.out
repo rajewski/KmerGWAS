@@ -1,0 +1,11 @@
+Combining both kmer counts for HG00476
+Canonized kmers:	2333286070
+Non-canon kmers:	5472471669
+Non-canon kmers found:	4238261660
+flag	0	count is	0
+flag	1	count is	212584762
+flag	2	count is	215725718
+flag	3	count is	1904975590
+kmers to save:	2333286070
+Done.
+Cleaning up the massive kmc files and quitting.

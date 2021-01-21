@@ -1,0 +1,11 @@
+Combining both kmer counts for A3
+Canonized kmers:	11879597
+Non-canon kmers:	66015795
+Non-canon kmers found:	16154810
+flag	0	count is	0
+flag	1	count is	3846475
+flag	2	count is	3757909
+flag	3	count is	4275213
+kmers to save:	11879597
+Done.
+Cleaning up the massive kmc files and quitting.

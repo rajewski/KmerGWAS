@@ -1,0 +1,11 @@
+Combining both kmer counts for MB140Tumor
+Canonized kmers:	2471050293
+Non-canon kmers:	10996306262
+Non-canon kmers found:	4628567011
+flag	0	count is	0
+flag	1	count is	149108045
+flag	2	count is	164425530
+flag	3	count is	2157516718
+kmers to save:	2471050293
+Done.
+Cleaning up the massive kmc files and quitting.

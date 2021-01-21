@@ -1,0 +1,13 @@
+Downloading ERR3576360 data from SRA...
+Prefetching ERR3576360...
+
+2020-05-09T19:30:44 prefetch.2.10.0: 1) Downloading 'ERR3576360'...
+2020-05-09T19:30:44 prefetch.2.10.0:  Downloading via https...
+2020-05-09T19:55:25 prefetch.2.10.0:  https download succeed
+2020-05-09T19:55:26 prefetch.2.10.0: 1) 'ERR3576360' was downloaded successfully
+2020-05-09T19:55:26 prefetch.2.10.0: 'ERR3576360' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR3576360
+Read 29471832 spots for ERR3576360
+Written 29471832 spots for ERR3576360
+Done.

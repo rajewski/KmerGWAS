@@ -1,0 +1,11 @@
+Combining both kmer counts for F9
+Canonized kmers:	54647012
+Non-canon kmers:	56884167
+Non-canon kmers found:	56884167
+flag	0	count is	0
+flag	1	count is	29055442
+flag	2	count is	23354415
+flag	3	count is	2237155
+kmers to save:	54647012
+Done.
+Cleaning up the massive kmc files and quitting.

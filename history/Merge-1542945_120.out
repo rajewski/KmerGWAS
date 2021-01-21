@@ -1,0 +1,11 @@
+Combining both kmer counts for H2
+Canonized kmers:	89206905
+Non-canon kmers:	98280036
+Non-canon kmers found:	94352342
+flag	0	count is	0
+flag	1	count is	46357187
+flag	2	count is	37704281
+flag	3	count is	5145437
+kmers to save:	89206905
+Done.
+Cleaning up the massive kmc files and quitting.

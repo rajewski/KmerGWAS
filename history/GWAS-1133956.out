@@ -1,0 +1,60 @@
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+error! maf level needs to be between 0 and 0.5. current value = 0.555556
+affective MAF = 0.555555555556
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 283, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 252, in main
+    th_5per = get_threshold_from_perm(res, "P", args.n_permutations, 0.05)
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/functions.py", line 110, in get_threshold_from_perm
+    pvals.append(best_pvals[prefix + str(i)])
+KeyError: 'P1'

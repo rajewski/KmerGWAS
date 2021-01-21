@@ -1,0 +1,11 @@
+Prefetching ERR034775...
+
+2020-05-22T03:17:37 prefetch.2.10.0: 1) Downloading 'ERR034775'...
+2020-05-22T03:17:37 prefetch.2.10.0:  Downloading via https...
+2020-05-22T03:54:56 prefetch.2.10.0:  https download succeed
+2020-05-22T03:54:56 prefetch.2.10.0: 1) 'ERR034775' was downloaded successfully
+Done.
+Dumping fastq file for ERR034775
+Read 48897814 spots for ERR034775
+Written 48897814 spots for ERR034775
+Done.

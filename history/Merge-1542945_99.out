@@ -1,0 +1,11 @@
+Combining both kmer counts for C4
+Canonized kmers:	104980091
+Non-canon kmers:	116736218
+Non-canon kmers found:	111083890
+flag	0	count is	0
+flag	1	count is	53555532
+flag	2	count is	45320760
+flag	3	count is	6103799
+kmers to save:	104980091
+Done.
+Cleaning up the massive kmc files and quitting.

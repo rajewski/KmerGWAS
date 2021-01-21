@@ -1,0 +1,13 @@
+Downloading ERR3576414 data from SRA...
+Prefetching ERR3576414...
+
+2020-05-09T20:18:03 prefetch.2.10.0: 1) Downloading 'ERR3576414'...
+2020-05-09T20:18:03 prefetch.2.10.0:  Downloading via https...
+2020-05-09T20:36:03 prefetch.2.10.0:  https download succeed
+2020-05-09T20:36:03 prefetch.2.10.0: 1) 'ERR3576414' was downloaded successfully
+2020-05-09T20:36:04 prefetch.2.10.0: 'ERR3576414' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR3576414
+Read 32922748 spots for ERR3576414
+Written 32922748 spots for ERR3576414
+Done.

@@ -1,0 +1,13 @@
+Downloading ERR4047801 data from SRA...
+Prefetching ERR4047801...
+
+2020-05-09T19:30:42 prefetch.2.10.0: 1) Downloading 'ERR4047801'...
+2020-05-09T19:30:42 prefetch.2.10.0:  Downloading via https...
+2020-05-09T19:54:14 prefetch.2.10.0:  https download succeed
+2020-05-09T19:54:14 prefetch.2.10.0: 1) 'ERR4047801' was downloaded successfully
+2020-05-09T19:54:14 prefetch.2.10.0: 'ERR4047801' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR4047801
+Read 26671773 spots for ERR4047801
+Written 26671773 spots for ERR4047801
+Done.

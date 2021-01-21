@@ -1,0 +1,11 @@
+Combining both kmer counts for B3
+Canonized kmers:	13865767
+Non-canon kmers:	84595498
+Non-canon kmers found:	18572581
+flag	0	count is	0
+flag	1	count is	4659763
+flag	2	count is	4499190
+flag	3	count is	4706814
+kmers to save:	13865767
+Done.
+Cleaning up the massive kmc files and quitting.

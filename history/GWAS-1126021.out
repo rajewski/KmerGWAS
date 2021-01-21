@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 279, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 56, in main
+    create_dir(args.outdir)
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/functions.py", line 49, in create_dir
+    raise Exception(err_msg)
+Exception: directory allready exist output_dir

@@ -1,0 +1,11 @@
+Combining both kmer counts for C6
+Canonized kmers:	72861220
+Non-canon kmers:	76858587
+Non-canon kmers found:	76858587
+flag	0	count is	0
+flag	1	count is	37520268
+flag	2	count is	31343585
+flag	3	count is	3997367
+kmers to save:	72861220
+Done.
+Cleaning up the massive kmc files and quitting.

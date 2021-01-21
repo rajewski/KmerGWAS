@@ -1,0 +1,2 @@
+Count cannonical kmers for MB140_Normal
+/var/spool/slurmd/job1130228/slurm_script: line 36: 110112 Segmentation fault      kmc -k31 -t$SLURM_CPUS_PER_TASK -m$((SLURM_MEM_PER_NODE/1024)) -ci3 @input_files.txt output_kmc_canon ./ > kmc_canon.1 2> kmc_canon.2

@@ -1,0 +1,3 @@
+Count cannonical kmers for MB140_Normal
+*************
+Stage 1: 0%Stage 1: 2%Stage 1: 5%Stage 1: 8%Stage 1: 10%Stage 1: 13%Stage 1: 16%Stage 1: 18%Stage 1: 21%Stage 1: 24%Stage 1: 27%Stage 1: 29%Stage 1: 32%Stage 1: 35%Stage 1: 37%Stage 1: 40%Stage 1: 43%Stage 1: 46%Stage 1: 48%Stage 1: 51%Stage 1: 54%Stage 1: 56%Stage 1: 59%Stage 1: 62%Stage 1: 64%Stage 1: 67%Stage 1: 70%Stage 1: 72%Stage 1: 75%Stage 1: 78%Stage 1: 80%/var/spool/slurmd/job1130248/slurm_script: line 34: 59183 Segmentation fault      kmc -k31 -t$SLURM_CPUS_PER_TASK -m$((SLURM_MEM_PER_NODE/1024)) -ci3 @input_files.txt output_kmc_canon ./ echo Done.

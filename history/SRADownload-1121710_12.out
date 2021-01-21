@@ -1,0 +1,13 @@
+Downloading ERR4047799 data from SRA...
+Prefetching ERR4047799...
+
+2020-05-10T00:41:46 prefetch.2.10.0: 1) Downloading 'ERR4047799'...
+2020-05-10T00:41:46 prefetch.2.10.0:  Downloading via https...
+2020-05-10T00:54:37 prefetch.2.10.0:  https download succeed
+2020-05-10T00:54:37 prefetch.2.10.0: 1) 'ERR4047799' was downloaded successfully
+2020-05-10T00:54:37 prefetch.2.10.0: 'ERR4047799' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR4047799
+Read 26467582 spots for ERR4047799
+Written 26467582 spots for ERR4047799
+Done.

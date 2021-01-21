@@ -1,0 +1,20 @@
+Downloading ERR4047620 data from SRA...
+Prefetching ERR4047620...
+
+2020-05-09T19:30:41 prefetch.2.10.0: 1) Downloading 'ERR4047620'...
+2020-05-09T19:30:41 prefetch.2.10.0:  Downloading via https...
+2020-05-09T19:39:40 prefetch.2.10.0 int: transfer incomplete while reading file within network system module - Cannot KStreamRead: https://sra-download.ncbi.nlm.nih.gov/traces/era22/ERR/ERR4047/ERR4047620
+2020-05-09T19:39:40 prefetch.2.10.0:  https download failed
+2020-05-09T19:39:40 prefetch.2.10.0: 1) failed to download ERR4047620
+Done.
+Dumping fastq file for ERR4047620
+2020-05-09T19:46:18 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed ERR4047620
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

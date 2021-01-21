@@ -1,0 +1,11 @@
+Combining both kmer counts for NA18552
+Canonized kmers:	2133173139
+Non-canon kmers:	5858608735
+Non-canon kmers found:	3747682902
+flag	0	count is	0
+flag	1	count is	258389632
+flag	2	count is	260273744
+flag	3	count is	1614509763
+kmers to save:	2133173139
+Done.
+Cleaning up the massive kmc files and quitting.

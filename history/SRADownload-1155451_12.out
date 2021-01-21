@@ -1,0 +1,11 @@
+Prefetching ERR251088...
+
+2020-05-21T23:18:09 prefetch.2.10.0: 1) Downloading 'ERR251088'...
+2020-05-21T23:18:09 prefetch.2.10.0:  Downloading via https...
+2020-05-22T02:05:57 prefetch.2.10.0:  https download succeed
+2020-05-22T02:05:57 prefetch.2.10.0: 1) 'ERR251088' was downloaded successfully
+Done.
+Dumping fastq file for ERR251088
+Read 69708735 spots for ERR251088
+Written 69708735 spots for ERR251088
+Done.

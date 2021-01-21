@@ -1,0 +1,11 @@
+Combining both kmer counts for NEWMETTumor
+Canonized kmers:	2625782646
+Non-canon kmers:	14089001443
+Non-canon kmers found:	4916055714
+flag	0	count is	0
+flag	1	count is	164444684
+flag	2	count is	171064894
+flag	3	count is	2290273068
+kmers to save:	2625782646
+Done.
+Cleaning up the massive kmc files and quitting.

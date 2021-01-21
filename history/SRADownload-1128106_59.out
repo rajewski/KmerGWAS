@@ -1,0 +1,19 @@
+Prefetching SRR1582529...
+
+2020-05-11T02:43:37 prefetch.2.10.0: 1) Downloading 'SRR1582529'...
+2020-05-11T02:43:38 prefetch.2.10.0:  Downloading via https...
+2020-05-11T05:03:44 prefetch.2.10.0 int: transfer incomplete while reading file within network system module - Cannot KStreamRead: https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-run-5/SRR1582529/SRR1582529.1
+2020-05-11T05:03:44 prefetch.2.10.0:  https download failed
+2020-05-11T05:03:44 prefetch.2.10.0: 1) failed to download SRR1582529
+Done.
+Dumping fastq file for SRR1582529
+2020-05-11T05:43:02 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed SRR1582529
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

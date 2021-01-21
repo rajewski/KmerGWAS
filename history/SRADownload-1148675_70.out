@@ -1,0 +1,28 @@
+Prefetching SRR1598005...
+
+2020-05-21T00:19:48 prefetch.2.10.0 warn: Maximum file size download limit is 20GB 
+2020-05-21T00:19:48 prefetch.2.10.0: 1) 'SRR1598005' (20GB) is larger than maximum allowed: skipped 
+2020-05-21T00:19:48 prefetch.2.10.0: 1) Downloading 'SRR1598005.vdbcache'...
+2020-05-21T00:19:48 prefetch.2.10.0:  Downloading via https...
+2020-05-21T00:28:11 prefetch.2.10.0:  https download succeed
+2020-05-21T00:28:11 prefetch.2.10.0: 1) 'SRR1598005.vdbcache' was downloaded successfully
+
+Download of some files was skipped because they are too large
+You can change size download limit by setting
+--min-size and --max-size command line arguments
+Done.
+Dumping fastq file for SRR1598005
+2020-05-21T11:48:25 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-21T13:59:20 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000664.1'
+2020-05-21T14:11:44 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000663.1'
+2020-05-21T16:31:09 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed SRR1598005
+2020-05-21T16:31:38 fastq-dump.2.10.0 err: name not found while resolving query within virtual file system module - failed to resolve accession 'hs37d5' - Cannot resolve accession ( 404 )
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

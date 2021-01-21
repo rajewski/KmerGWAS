@@ -1,0 +1,335 @@
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.996591
+se(pve) =-nan
+Reading SNPs                                                    0.00%Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =-nan
+Reading Files ... 
+Reading SNPs                                                    0.00%Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =-nan
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading SNPs                                                    0.00%Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+Reading Files ... 
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999886
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =656.684
+Reading SNPs                                                    0.00%Reading Files ... 
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.000151111
+se(pve) =4290.91
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999886
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =656.684
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =656.684
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999886
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.996591
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999961
+se(pve) =686.871
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =6.75694e-05
+se(pve) =1392.93
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.999962
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+pve estimate =0.996591
+se(pve) =-nan
+Reading SNPs                                                    0.00%## number of total individuals = 39
+## number of analyzed individuals = 39
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 100000
+## number of analyzed SNPs = 100000
+Start Eigen-Decomposition...
+gsl: newton.c:74: ERROR: derivative is zero
+Default GSL error handler invoked.
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%Reading SNPs  ==================================================100.00%
+Reading SNPs  ==================================================100.00%
+
+
+
+
+
+
+
+
+Reading SNPs  ==================================================100.00%
+
+Reading SNPs  ==================================================100.00%
+affective MAF = 0.05
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 283, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 252, in main
+    th_5per = get_threshold_from_perm(res, "P", args.n_permutations, 0.05)
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/functions.py", line 110, in get_threshold_from_perm
+    pvals.append(best_pvals[prefix + str(i)])
+KeyError: 'P3'

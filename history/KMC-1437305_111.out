@@ -1,0 +1,115 @@
+Count cannonical kmers for D1
+****
+
+********** Used parameters: **********
+No. of input files           : 2
+Output file name             : output_kmc_canon
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 31
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 2
+Max. count threshold         : 1000000000
+Max. counter value           : 255
+Both strands                 : true
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 25165824
+
+No. of readers               : 2
+No. of splitters             : 28
+
+Max. mem. size               : 70000MB
+Max. mem. per storer         : 48874MB
+Max. mem. for single package :   190MB
+
+Max. mem. for PMM (bin parts): 65166MB
+Max. mem. for PMM (FASTQ)    :  3179MB
+Max. mem. for PMM (reads)    :    29MB
+Max. mem. for PMM (b. reader):  1610MB
+
+Stage 1: 0%Stage 1: 46%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 30
+
+Max. mem. for 2nd stage      :    16MB
+
+Stage 2: 0%Stage 2: 19%Stage 2: 32%Stage 2: 41%Stage 2: 49%Stage 2: 56%Stage 2: 62%Stage 2: 67%Stage 2: 71%Stage 2: 76%Stage 2: 80%Stage 2: 83%Stage 2: 86%Stage 2: 89%Stage 2: 91%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 0.584503s
+2nd stage: 0.110783s
+Total    : 0.695286s
+Tmp size : 0MB
+
+Stats:
+   No. of k-mers below min. threshold :       146245
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :       154808
+   No. of unique counted k-mers       :         8563
+   Total no. of k-mers                :       169373
+   Total no. of reads                 :         1562
+   Total no. of super-k-mers          :        14983
+Counting non-cannonical kmers for D1
+****
+
+********** Used parameters: **********
+No. of input files           : 2
+Output file name             : output_kmc_all
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 31
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 0
+Max. count threshold         : 1000000000
+Max. counter value           : 255
+Both strands                 : false
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 12582912
+
+No. of readers               : 2
+No. of splitters             : 28
+
+Max. mem. size               : 12000MB
+Max. mem. per storer         :  6146MB
+Max. mem. for single package :    24MB
+
+Max. mem. for PMM (bin parts):  9456MB
+Max. mem. for PMM (FASTQ)    :  1593MB
+Max. mem. for PMM (reads)    :    29MB
+Max. mem. for PMM (b. reader):   905MB
+
+Stage 1: 0%Stage 1: 46%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 30
+
+Max. mem. for 2nd stage      :    16MB
+
+Stage 2: 0%Stage 2: 19%Stage 2: 32%Stage 2: 41%Stage 2: 49%Stage 2: 56%Stage 2: 62%Stage 2: 67%Stage 2: 71%Stage 2: 76%Stage 2: 80%Stage 2: 83%Stage 2: 86%Stage 2: 89%Stage 2: 91%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 0.432227s
+2nd stage: 0.111919s
+Total    : 0.544146s
+Tmp size : 0MB
+
+Stats:
+   No. of k-mers below min. threshold :            0
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :       160247
+   No. of unique counted k-mers       :       160247
+   Total no. of k-mers                :       169373
+   Total no. of reads                 :         1562
+   Total no. of super-k-mers          :        14983
+Done.

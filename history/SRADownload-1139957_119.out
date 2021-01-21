@@ -1,0 +1,48 @@
+Prefetching SRR1599434...
+
+2020-05-19T05:06:06 prefetch.2.10.0: 1) Downloading 'SRR1599434'...
+2020-05-19T05:06:06 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:15:03 prefetch.2.10.0:  https download succeed
+2020-05-19T05:15:03 prefetch.2.10.0: 1,2) Downloading 'SRR1599434.vdbcache'...
+2020-05-19T05:15:03 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:15:07 prefetch.2.10.0:  https download succeed
+2020-05-19T05:15:07 prefetch.2.10.0: 1.2) 'SRR1599434.vdbcache' was downloaded successfully
+2020-05-19T05:15:07 prefetch.2.10.0: 1) 'SRR1599434' was downloaded successfully
+2020-05-19T05:15:33 prefetch.2.10.0: 'SRR1599434' has 85 unresolved dependencies
+2020-05-19T05:15:33 prefetch.2.10.0: 2) Downloading 'ncbi-acc:CM000663.1?vdb-ctx=refseq'...
+2020-05-19T05:15:33 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:15:41 prefetch.2.10.0:  https download succeed
+2020-05-19T05:15:41 prefetch.2.10.0: 2) 'ncbi-acc:CM000663.1?vdb-ctx=refseq' was downloaded successfully
+2020-05-19T05:15:41 prefetch.2.10.0: 3) Downloading 'ncbi-acc:CM000664.1?vdb-ctx=refseq'...
+2020-05-19T05:15:41 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:20:45 prefetch.2.10.0:  https download succeed
+2020-05-19T05:20:45 prefetch.2.10.0: 3) 'ncbi-acc:CM000664.1?vdb-ctx=refseq' was downloaded successfully
+2020-05-19T05:20:45 prefetch.2.10.0: 4) Downloading 'ncbi-acc:CM000665.1?vdb-ctx=refseq'...
+2020-05-19T05:20:45 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:20:53 prefetch.2.10.0:  https download succeed
+2020-05-19T05:20:53 prefetch.2.10.0: 4) 'ncbi-acc:CM000665.1?vdb-ctx=refseq' was downloaded successfully
+2020-05-19T05:20:53 prefetch.2.10.0: 5) Downloading 'ncbi-acc:CM000666.1?vdb-ctx=refseq'...
+2020-05-19T05:20:54 prefetch.2.10.0:  Downloading via https...
+2020-05-19T05:23:52 prefetch.2.10.0 int: connection failed while opening file within cryptographic module - Cannot KNSManagerMakeClientRequest: https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000666.1
+2020-05-19T05:23:52 prefetch.2.10.0:  https download failed
+2020-05-19T05:23:52 prefetch.2.10.0: 5) failed to download ncbi-acc:CM000666.1?vdb-ctx=refseq
+Done.
+Dumping fastq file for SRR1599434
+2020-05-19T05:42:35 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T05:49:33 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-19T05:54:33 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T06:07:52 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000666.1'
+2020-05-19T06:50:58 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T07:09:33 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T07:43:54 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-19T08:20:31 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000666.1'
+2020-05-19T08:48:53 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-19T09:07:12 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T09:24:33 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-19T09:31:14 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000669.1'
+2020-05-19T10:34:33 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+2020-05-19T11:51:55 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000669.1'
+2020-05-19T12:40:31 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000668.1'
+2020-05-19T13:26:12 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000669.1'
+2020-05-19T14:09:50 fastq-dump.2.10.0 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/CM000667.1'
+slurmstepd-i26: error: *** JOB 1141758 ON i26 CANCELLED AT 2020-05-19T10:06:17 DUE TO TIME LIMIT ***

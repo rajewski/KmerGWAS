@@ -1,0 +1,11 @@
+Combining both kmer counts for O6
+Canonized kmers:	11518786
+Non-canon kmers:	65535922
+Non-canon kmers found:	16257278
+flag	0	count is	0
+flag	1	count is	3433338
+flag	2	count is	3346956
+flag	3	count is	4738492
+kmers to save:	11518786
+Done.
+Cleaning up the massive kmc files and quitting.

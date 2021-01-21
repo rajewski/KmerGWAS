@@ -1,0 +1,11 @@
+Combining both kmer counts for I9
+Canonized kmers:	9880445
+Non-canon kmers:	55705480
+Non-canon kmers found:	12861643
+flag	0	count is	0
+flag	1	count is	3490796
+flag	2	count is	3408451
+flag	3	count is	2981198
+kmers to save:	9880445
+Done.
+Cleaning up the massive kmc files and quitting.

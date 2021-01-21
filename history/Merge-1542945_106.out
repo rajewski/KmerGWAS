@@ -1,0 +1,11 @@
+Combining both kmer counts for D4
+Canonized kmers:	72799494
+Non-canon kmers:	83748723
+Non-canon kmers found:	76423508
+flag	0	count is	0
+flag	1	count is	38102565
+flag	2	count is	31072915
+flag	3	count is	3624014
+kmers to save:	72799494
+Done.
+Cleaning up the massive kmc files and quitting.

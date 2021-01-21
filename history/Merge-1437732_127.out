@@ -1,0 +1,11 @@
+Combining both kmer counts for G4
+Canonized kmers:	105033
+Non-canon kmers:	701422
+Non-canon kmers found:	172769
+flag	0	count is	0
+flag	1	count is	18813
+flag	2	count is	18484
+flag	3	count is	67736
+kmers to save:	105033
+Done.
+Cleaning up the massive kmc files and quitting.

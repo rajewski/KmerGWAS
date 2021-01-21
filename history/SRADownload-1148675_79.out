@@ -1,0 +1,24 @@
+Prefetching SRR1598024...
+
+2020-05-21T00:19:47 prefetch.2.10.0 warn: Maximum file size download limit is 20GB 
+2020-05-21T00:19:47 prefetch.2.10.0: 1) 'SRR1598024' (27GB) is larger than maximum allowed: skipped 
+2020-05-21T00:19:47 prefetch.2.10.0: 1) Downloading 'SRR1598024.vdbcache'...
+2020-05-21T00:19:48 prefetch.2.10.0:  Downloading via https...
+2020-05-21T01:04:55 prefetch.2.10.0:  https download succeed
+2020-05-21T01:04:55 prefetch.2.10.0: 1) 'SRR1598024.vdbcache' was downloaded successfully
+
+Download of some files was skipped because they are too large
+You can change size download limit by setting
+--min-size and --max-size command line arguments
+Done.
+Dumping fastq file for SRR1598024
+2020-05-21T04:34:55 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed SRR1598024
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

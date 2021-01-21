@@ -1,0 +1,11 @@
+Combining both kmer counts for N8
+Canonized kmers:	89660228
+Non-canon kmers:	99163313
+Non-canon kmers found:	94179210
+flag	0	count is	0
+flag	1	count is	46339749
+flag	2	count is	38801497
+flag	3	count is	4518982
+kmers to save:	89660228
+Done.
+Cleaning up the massive kmc files and quitting.

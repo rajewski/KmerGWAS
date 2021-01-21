@@ -1,0 +1,20 @@
+Downloading ERR3576372 data from SRA...
+Prefetching ERR3576372...
+
+2020-05-09T19:30:41 prefetch.2.10.0: 1) Downloading 'ERR3576372'...
+2020-05-09T19:30:41 prefetch.2.10.0:  Downloading via https...
+2020-05-09T20:00:31 prefetch.2.10.0 int: timeout exhausted while reading file within network system module - Cannot KStreamRead: https://sra-download.ncbi.nlm.nih.gov/traces/era0/ERR/ERR3576/ERR3576372
+2020-05-09T20:00:31 prefetch.2.10.0:  https download failed
+2020-05-09T20:00:32 prefetch.2.10.0: 1) failed to download ERR3576372
+Done.
+Dumping fastq file for ERR3576372
+2020-05-09T20:38:12 fastq-dump.2.10.0 err: timeout exhausted while waiting condition within process system module - failed ERR3576372
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/rhome/arajewski/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+Done.

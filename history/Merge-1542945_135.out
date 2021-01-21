@@ -1,0 +1,11 @@
+Combining both kmer counts for MC4
+Canonized kmers:	89077605
+Non-canon kmers:	287429011
+Non-canon kmers found:	134326653
+flag	0	count is	0
+flag	1	count is	22690719
+flag	2	count is	21137838
+flag	3	count is	45249048
+kmers to save:	89077605
+Done.
+Cleaning up the massive kmc files and quitting.

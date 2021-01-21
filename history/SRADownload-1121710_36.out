@@ -1,0 +1,13 @@
+Downloading ERR3576383 data from SRA...
+Prefetching ERR3576383...
+
+2020-05-10T00:41:46 prefetch.2.10.0: 1) Downloading 'ERR3576383'...
+2020-05-10T00:41:46 prefetch.2.10.0:  Downloading via https...
+2020-05-10T00:55:01 prefetch.2.10.0:  https download succeed
+2020-05-10T00:55:01 prefetch.2.10.0: 1) 'ERR3576383' was downloaded successfully
+2020-05-10T00:55:03 prefetch.2.10.0: 'ERR3576383' has 0 unresolved dependencies
+Done.
+Dumping fastq file for ERR3576383
+Read 25280472 spots for ERR3576383
+Written 25280472 spots for ERR3576383
+Done.

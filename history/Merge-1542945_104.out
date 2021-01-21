@@ -1,0 +1,11 @@
+Combining both kmer counts for D2
+Canonized kmers:	73057862
+Non-canon kmers:	95698051
+Non-canon kmers found:	78987631
+flag	0	count is	0
+flag	1	count is	36906152
+flag	2	count is	30221941
+flag	3	count is	5929769
+kmers to save:	73057862
+Done.
+Cleaning up the massive kmc files and quitting.

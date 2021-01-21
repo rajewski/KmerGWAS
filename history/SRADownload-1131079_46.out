@@ -1,0 +1,3 @@
+Dumping fastq file for SRR1582454
+/var/spool/slurmd/job1131094/slurm_script: line 23: fastq-dump: command not found
+Done.

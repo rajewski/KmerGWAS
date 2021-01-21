@@ -1,0 +1,11 @@
+Prefetching ERR251567...
+
+2020-05-21T23:18:09 prefetch.2.10.0: 1) Downloading 'ERR251567'...
+2020-05-21T23:18:09 prefetch.2.10.0:  Downloading via https...
+2020-05-22T02:20:37 prefetch.2.10.0:  https download succeed
+2020-05-22T02:20:37 prefetch.2.10.0: 1) 'ERR251567' was downloaded successfully
+Done.
+Dumping fastq file for ERR251567
+Read 68865198 spots for ERR251567
+Written 68865198 spots for ERR251567
+Done.

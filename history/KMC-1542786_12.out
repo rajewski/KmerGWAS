@@ -1,0 +1,115 @@
+Count cannonical kmers for 20
+***********
+
+********** Used parameters: **********
+No. of input files           : 4
+Output file name             : output_kmc_canon
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 31
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 2
+Max. count threshold         : 1000000000
+Max. counter value           : 255
+Both strands                 : true
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 25165824
+
+No. of readers               : 4
+No. of splitters             : 26
+
+Max. mem. size               : 70000MB
+Max. mem. per storer         : 47669MB
+Max. mem. for single package :   186MB
+
+Max. mem. for PMM (bin parts): 63558MB
+Max. mem. for PMM (FASTQ)    :  3179MB
+Max. mem. for PMM (reads)    :    27MB
+Max. mem. for PMM (b. reader):  3221MB
+
+Stage 1: 0%Stage 1: 28%Stage 1: 49%Stage 1: 69%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 30
+
+Max. mem. for 2nd stage      : 16188MB
+
+Stage 2: 0%Stage 2: 1%Stage 2: 2%Stage 2: 3%Stage 2: 4%Stage 2: 5%Stage 2: 6%Stage 2: 7%Stage 2: 8%Stage 2: 9%Stage 2: 10%Stage 2: 11%Stage 2: 12%Stage 2: 13%Stage 2: 14%Stage 2: 15%Stage 2: 16%Stage 2: 17%Stage 2: 18%Stage 2: 19%Stage 2: 20%Stage 2: 21%Stage 2: 22%Stage 2: 23%Stage 2: 24%Stage 2: 25%Stage 2: 26%Stage 2: 27%Stage 2: 28%Stage 2: 29%Stage 2: 30%Stage 2: 31%Stage 2: 32%Stage 2: 33%Stage 2: 34%Stage 2: 35%Stage 2: 36%Stage 2: 37%Stage 2: 38%Stage 2: 39%Stage 2: 40%Stage 2: 41%Stage 2: 42%Stage 2: 43%Stage 2: 44%Stage 2: 45%Stage 2: 46%Stage 2: 47%Stage 2: 48%Stage 2: 49%Stage 2: 50%Stage 2: 51%Stage 2: 52%Stage 2: 53%Stage 2: 54%Stage 2: 55%Stage 2: 56%Stage 2: 57%Stage 2: 58%Stage 2: 59%Stage 2: 60%Stage 2: 61%Stage 2: 62%Stage 2: 63%Stage 2: 64%Stage 2: 65%Stage 2: 66%Stage 2: 67%Stage 2: 68%Stage 2: 69%Stage 2: 70%Stage 2: 71%Stage 2: 72%Stage 2: 73%Stage 2: 74%Stage 2: 75%Stage 2: 76%Stage 2: 77%Stage 2: 78%Stage 2: 79%Stage 2: 80%Stage 2: 81%Stage 2: 82%Stage 2: 83%Stage 2: 84%Stage 2: 85%Stage 2: 86%Stage 2: 87%Stage 2: 88%Stage 2: 89%Stage 2: 90%Stage 2: 91%Stage 2: 92%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 96%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 8.26574s
+2nd stage: 3.52431s
+Total    : 11.79s
+Tmp size : 1044MB
+
+Stats:
+   No. of k-mers below min. threshold :     12446111
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :     49569078
+   No. of unique counted k-mers       :     37122967
+   Total no. of k-mers                :   1011763148
+   Total no. of reads                 :     10282580
+   Total no. of super-k-mers          :     88628924
+Counting non-cannonical kmers for 20
+**********************
+
+********** Used parameters: **********
+No. of input files           : 4
+Output file name             : output_kmc_all
+No. of working directories   : 1
+Input format                 : FASTQ
+
+k-mer length                 : 31
+Max. k-mer length            : 256
+Signature length             : 9
+Min. count threshold         : 0
+Max. count threshold         : 1000000000
+Max. counter value           : 255
+Both strands                 : false
+RAM only mode                : false
+
+******* Stage 1 configuration: *******
+
+No. of bins                  : 512
+Bin part size                : 65536
+Input buffer size            : 12582912
+
+No. of readers               : 4
+No. of splitters             : 26
+
+Max. mem. size               : 12000MB
+Max. mem. per storer         :  6075MB
+Max. mem. for single package :    23MB
+
+Max. mem. for PMM (bin parts):  9346MB
+Max. mem. for PMM (FASTQ)    :  1593MB
+Max. mem. for PMM (reads)    :    27MB
+Max. mem. for PMM (b. reader):  1019MB
+
+Stage 1: 0%Stage 1: 10%Stage 1: 21%Stage 1: 31%Stage 1: 42%Stage 1: 53%Stage 1: 63%Stage 1: 72%Stage 1: 83%Stage 1: 90%Stage 1: 100%
+
+******* Stage 2 configuration: *******
+No. of threads               : 30
+
+Max. mem. for 2nd stage      : 11983MB
+
+Stage 2: 0%Stage 2: 1%Stage 2: 2%Stage 2: 3%Stage 2: 4%Stage 2: 5%Stage 2: 6%Stage 2: 7%Stage 2: 8%Stage 2: 9%Stage 2: 10%Stage 2: 11%Stage 2: 12%Stage 2: 13%Stage 2: 14%Stage 2: 15%Stage 2: 16%Stage 2: 17%Stage 2: 18%Stage 2: 19%Stage 2: 20%Stage 2: 21%Stage 2: 22%Stage 2: 23%Stage 2: 24%Stage 2: 25%Stage 2: 26%Stage 2: 27%Stage 2: 28%Stage 2: 29%Stage 2: 30%Stage 2: 31%Stage 2: 32%Stage 2: 33%Stage 2: 34%Stage 2: 35%Stage 2: 36%Stage 2: 37%Stage 2: 38%Stage 2: 39%Stage 2: 40%Stage 2: 41%Stage 2: 42%Stage 2: 43%Stage 2: 44%Stage 2: 45%Stage 2: 46%Stage 2: 47%Stage 2: 48%Stage 2: 49%Stage 2: 50%Stage 2: 51%Stage 2: 52%Stage 2: 53%Stage 2: 54%Stage 2: 55%Stage 2: 56%Stage 2: 57%Stage 2: 58%Stage 2: 59%Stage 2: 60%Stage 2: 61%Stage 2: 62%Stage 2: 63%Stage 2: 64%Stage 2: 65%Stage 2: 66%Stage 2: 67%Stage 2: 68%Stage 2: 69%Stage 2: 70%Stage 2: 71%Stage 2: 72%Stage 2: 73%Stage 2: 74%Stage 2: 75%Stage 2: 76%Stage 2: 77%Stage 2: 78%Stage 2: 79%Stage 2: 80%Stage 2: 81%Stage 2: 82%Stage 2: 83%Stage 2: 84%Stage 2: 85%Stage 2: 86%Stage 2: 87%Stage 2: 88%Stage 2: 89%Stage 2: 90%Stage 2: 91%Stage 2: 92%Stage 2: 93%Stage 2: 94%Stage 2: 95%Stage 2: 96%Stage 2: 97%Stage 2: 98%Stage 2: 99%Stage 2: 100%
+1st stage: 6.46919s
+2nd stage: 3.14003s
+Total    : 9.60921s
+Tmp size : 1044MB
+
+Stats:
+   No. of k-mers below min. threshold :            0
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :     59704284
+   No. of unique counted k-mers       :     59704284
+   Total no. of k-mers                :   1011763148
+   Total no. of reads                 :     10282580
+   Total no. of super-k-mers          :     88628924
+Done.

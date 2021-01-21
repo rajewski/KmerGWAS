@@ -1,0 +1,11 @@
+Combining both kmer counts for MB2C13Normal
+Canonized kmers:	2464587549
+Non-canon kmers:	10267502111
+Non-canon kmers found:	4618754917
+flag	0	count is	0
+flag	1	count is	148068149
+flag	2	count is	162352032
+flag	3	count is	2154167368
+kmers to save:	2464587549
+Done.
+Cleaning up the massive kmc files and quitting.

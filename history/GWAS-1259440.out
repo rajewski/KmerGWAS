@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/align_kinship_phenotype.py", line 83, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/align_kinship_phenotype.py", line 71, in main
+    create_new_relatedness_matrix(args.fn_kinship, args.fn_out_kinship, index_kinship)
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/functions.py", line 19, in create_new_relatedness_matrix
+    m = [cut_ind(x.split("\t"),indices) for x in file(fn_in,"r").read().split("\n")[:-1]]
+IOError: [Errno 2] No such file or directory: 'kmers_table.kinship'
+Error in file(file, "rt") : cannot open the connection
+Calls: read.csv -> read.table -> file
+In addition: Warning message:
+In file(file, "rt") :
+  cannot open file 'output_dir/pheno.phenotypes': No such file or directory
+Execution halted
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 283, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 112, in main
+    phenotypes_names = file(paths["pheno_permuted_fn"] ,"r").read().split("\n")[0].split("\t")[1:]
+IOError: [Errno 2] No such file or directory: 'output_dir/pheno.phenotypes_and_permutations'

@@ -1,0 +1,11 @@
+Combining both kmer counts for HG00525
+Canonized kmers:	2383360623
+Non-canon kmers:	5877284076
+Non-canon kmers found:	4358797670
+flag	0	count is	0
+flag	1	count is	202743294
+flag	2	count is	205180282
+flag	3	count is	1975437047
+kmers to save:	2383360623
+Done.
+Cleaning up the massive kmc files and quitting.

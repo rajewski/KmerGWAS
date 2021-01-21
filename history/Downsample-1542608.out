@@ -1,0 +1,11 @@
+java -ea -Xms300m -cp /opt/linux/centos/7.x/x86_64/pkgs/BBMap/38.60/current/ jgi.ReformatReads in1=10_1.fq.gz in2=10_2.fq.gz samplereadstarget=2000000 out1=10_1_subsample.fq.gz out2=10_2_subsample.fq.gz
+Executing jgi.ReformatReads [in1=10_1.fq.gz, in2=10_2.fq.gz, samplereadstarget=2000000, out1=10_1_subsample.fq.gz, out2=10_2_subsample.fq.gz]
+
+Set INTERLEAVED to false
+Input is being processed as paired
+Input:                  	6496780 reads          	807158922 bases
+Output:                 	4000000 reads (61.57%) 	496995614 bases (61.57%)
+
+Time:                         	56.044 seconds.
+Reads Processed:       6496k 	115.92k reads/sec
+Bases Processed:        807m 	14.40m bases/sec

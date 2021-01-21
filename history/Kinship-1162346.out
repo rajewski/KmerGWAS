@@ -1,0 +1,6 @@
+Min count = 1
+loading...
+error!!! should be equal popcnt!
+terminate called after throwing an instance of 'std::logic_error'
+  what():  error
+/var/spool/slurmd/job1162346/slurm_script: line 20:  2133 Aborted                 emma_kinship_kmers -t kmers_table -k 31 --maf 0.05 > kmers_table.kinship

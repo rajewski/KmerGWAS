@@ -1,0 +1,11 @@
+Combining both kmer counts for HG00557
+Canonized kmers:	2326796493
+Non-canon kmers:	5652999574
+Non-canon kmers found:	4216744030
+flag	0	count is	0
+flag	1	count is	217378418
+flag	2	count is	219470538
+flag	3	count is	1889947537
+kmers to save:	2326796493
+Done.
+Cleaning up the massive kmc files and quitting.

@@ -1,0 +1,12 @@
+sh: line 1: 62545 Killed                  /bigdata/littlab/arajewski/kmerGWAS/software/bin/associate_kmers -p output_dir/pheno.phenotypes_permuted_transformed -b pheno -o output_dir/kmers -n 2000000000 --parallel 30 --kmers_table kmers_table --kmer_len 31 --maf 0.050000 --mac 1 --pattern_counter 2> output_dir/associate_kmers.log
+affective MAF = 0.111111111111
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 283, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 158, in main
+    fam_fn = get_file_type_in_dir(paths["kmers_associations_dir"], "%s.fam" % p_name)
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/src/py/functions.py", line 10, in get_file_type_in_dir
+    raise Exception("File count not = 1 %s %d\n%s"  % (type_suffix, len(fns), dir_name))
+Exception: File count not = 1 phenotype_value.fam 0
+output_dir/kmers
+slurmstepd-c10: error: Detected 22 oom-kill event(s) in step 1135155.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

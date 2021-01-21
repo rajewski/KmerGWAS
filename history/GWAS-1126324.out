@@ -1,0 +1,15 @@
+
+ *** caught illegal operation ***
+address 0x2b337d5f6ca2, cause 'illegal operand'
+
+Traceback:
+ 1: readRDS(mapfile)
+ 2: ..lazyLoad(basedb, baseenv())
+ 3: NULL
+An irrecoverable exception occurred. R is aborting now ...
+Traceback (most recent call last):
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 282, in <module>
+    main()
+  File "/bigdata/littlab/arajewski/kmerGWAS/software/kmers_gwas.py", line 111, in main
+    phenotypes_names = file(paths["pheno_permuted_fn"] ,"r").read().split("\n")[0].split("\t")[1:]
+IOError: [Errno 2] No such file or directory: 'output_dir/pheno.phenotypes_and_permutations'

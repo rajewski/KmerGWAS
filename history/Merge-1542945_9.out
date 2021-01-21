@@ -1,0 +1,11 @@
+Combining both kmer counts for 18
+Canonized kmers:	38560833
+Non-canon kmers:	68105730
+Non-canon kmers found:	50452153
+flag	0	count is	0
+flag	1	count is	14085775
+flag	2	count is	12583738
+flag	3	count is	11891320
+kmers to save:	38560833
+Done.
+Cleaning up the massive kmc files and quitting.

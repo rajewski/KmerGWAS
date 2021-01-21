@@ -1,0 +1,5 @@
+Combining both kmer counts for HG00326
+kmers_add_strand_information: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by kmers_add_strand_information)
+kmers_add_strand_information: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.20' not found (required by kmers_add_strand_information)
+kmers_add_strand_information: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by kmers_add_strand_information)
+kmers_add_strand_information: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by kmers_add_strand_information)

@@ -1,0 +1,11 @@
+Combining both kmer counts for HG00428
+Canonized kmers:	2450146473
+Non-canon kmers:	6702656249
+Non-canon kmers found:	4548566663
+flag	0	count is	0
+flag	1	count is	174645881
+flag	2	count is	177080402
+flag	3	count is	2098420190
+kmers to save:	2450146473
+Done.
+Cleaning up the massive kmc files and quitting.

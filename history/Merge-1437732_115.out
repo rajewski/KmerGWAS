@@ -1,0 +1,11 @@
+Combining both kmer counts for D5
+Canonized kmers:	9663131
+Non-canon kmers:	58411801
+Non-canon kmers found:	12176880
+flag	0	count is	0
+flag	1	count is	3619785
+flag	2	count is	3529597
+flag	3	count is	2513749
+kmers to save:	9663131
+Done.
+Cleaning up the massive kmc files and quitting.

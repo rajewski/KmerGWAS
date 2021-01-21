@@ -1,0 +1,40 @@
+build/mmer.o build/kmc_file.o build/kmer_api.o build/kmers_multiple_databases.o build/best_associations_heap.o build/kmers_merge_multiple_databaes.o build/kmer_general.o build/snps_multiple_databases.o build/kmers_single_database.o
+mkdir -p bin
+g++ -std=c++14 -Wall -O3 -I ./include/ -pthread -msse4.2   build/mmer.o build/kmc_file.o build/kmer_api.o build/kmers_multiple_databases.o build/best_associations_heap.o build/kmers_merge_multiple_databaes.o build/kmer_general.o build/snps_multiple_databases.o build/kmers_single_database.o src/associate_kmers.cpp  -o bin/associate_kmers
+In file included from /bigdata/operations/pkgadmin/opt/linux/centos/7.x/x86_64/easybuild/pkgs/GCCcore/7.4.0/include/c++/7.4.0/bits/uniform_int_dist.h:35:0,
+                 from /bigdata/operations/pkgadmin/opt/linux/centos/7.x/x86_64/easybuild/pkgs/GCCcore/7.4.0/include/c++/7.4.0/bits/stl_algo.h:66,
+                 from /bigdata/operations/pkgadmin/opt/linux/centos/7.x/x86_64/easybuild/pkgs/GCCcore/7.4.0/include/c++/7.4.0/algorithm:62,
+                 from src/kmer_general.h:5,
+                 from src/associate_kmers.cpp:22:
+/bigdata/operations/pkgadmin/opt/linux/centos/7.x/x86_64/easybuild/pkgs/GCCcore/7.4.0/include/c++/7.4.0/limits:1599:7: internal compiler error: Illegal instruction
+       min() _GLIBCXX_USE_NOEXCEPT { return __FLT_MIN__; }
+       ^~~
+0xb5a77f crash_signal
+	../../gcc/toplev.c:337
+0x13fdc3c parsed_string_to_mpfr
+	../../../mpfr/src/strtofr.c:517
+0x13fef0d mpfr_strtofr
+	../../../mpfr/src/strtofr.c:835
+0xacc684 real_from_string(real_value*, char const*)
+	../../gcc/real.c:2107
+0xaccfbb real_from_string3(real_value*, char const*, format_helper)
+	../../gcc/real.c:2173
+0x79cc33 interpret_float
+	../../gcc/c-family/c-lex.c:932
+0x79db17 c_lex_with_flags(tree_node**, unsigned int*, unsigned char*, int)
+	../../gcc/c-family/c-lex.c:432
+0x69f0fe cp_lexer_get_preprocessor_token
+	../../gcc/cp/parser.c:793
+0x6d2644 cp_lexer_new_main
+	../../gcc/cp/parser.c:657
+0x6d2644 cp_parser_new
+	../../gcc/cp/parser.c:3727
+0x6d2644 c_parse_file()
+	../../gcc/cp/parser.c:38531
+0x7a35b3 c_common_parse_file()
+	../../gcc/c-family/c-opts.c:1107
+Please submit a full bug report,
+with preprocessed source if appropriate.
+Please include the complete backtrace with any bug report.
+See <https://gcc.gnu.org/bugs/> for instructions.
+make: *** [associate_kmers] Error 1

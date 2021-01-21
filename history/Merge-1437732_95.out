@@ -1,0 +1,11 @@
+Combining both kmer counts for A8
+Canonized kmers:	18243469
+Non-canon kmers:	100086611
+Non-canon kmers found:	23943042
+flag	0	count is	0
+flag	1	count is	6392933
+flag	2	count is	6150963
+flag	3	count is	5699573
+kmers to save:	18243469
+Done.
+Cleaning up the massive kmc files and quitting.

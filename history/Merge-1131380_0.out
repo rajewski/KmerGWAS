@@ -1,0 +1,11 @@
+Combining both kmer counts for MB140_Normal
+Canonized kmers:	2561149260
+Non-canon kmers:	12946513062
+Non-canon kmers found:	4822289646
+flag	0	count is	0
+flag	1	count is	148326559
+flag	2	count is	151682315
+flag	3	count is	2261140386
+kmers to save:	2561149260
+Done.
+Cleaning up the massive kmc files and quitting.

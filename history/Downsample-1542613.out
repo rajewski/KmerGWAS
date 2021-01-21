@@ -1,0 +1,748 @@
+Set INTERLEAVED to false
+Set INTERLEAVED to falseTime:                         	60.581 seconds.
+Reads Processed:       7398k 	122.13k reads/sec
+Bases Processed:        920m 	15.19m bases/sec
+
+
+
+
+Set INTERLEAVED to falseSet INTERLEAVED to false
+
+Set INTERLEAVED to false
+Input:                  	7355240 reads          	926579829 bases
+Output:                 	4000000 reads (54.38%) 	503809486 bases (54.37%)
+
+Time:                         	61.514 seconds.
+Reads Processed:       7355k 	119.57k reads/sec
+Bases Processed:        926m 	15.06m bases/sec
+Input:                  	7488930 reads          	952701120 bases
+Output:                 	4000000 reads (53.41%) 	508900986 bases (53.42%)
+
+Time:                         	60.893 seconds.
+Reads Processed:       7488k 	122.99k reads/sec
+Bases Processed:        952m 	15.65m bases/sec
+java -ea -Xms300m -cp /opt/linux/centos/7.x/x86_64/pkgs/BBMap/38.60/current/ jgi.ReformatReads in1=L5_1.fq.gz in2=L5_2.fq.gz samplereadstarget=2000000 out1=L5_1_subsample.fq.gz out2=L5_2_subsample.fq.gz
+java -ea -Xms300m -cp /opt/linux/centos/7.x/x86_64/pkgs/BBMap/38.60/current/ jgi.ReformatReads in1=L4_1.fq.gz in2=L4_2.fq.gz samplereadstarget=2000000 out1=L4_1_subsample.fq.gz out2=L4_2_subsample.fq.gz
+Input:                  	7490504 reads          	942427699 bases
+Output:                 	4000000 reads (53.40%) 	503180394 bases (53.39%)
+
+Time:                         	61.048 seconds.
+Reads Processed:       7490k 	122.70k reads/sec
+Bases Processed:        942m 	15.44m bases/sec
+Input:                  	7390564 reads          	916637965 bases
+Output:                 	4000000 reads (54.12%) 	496067466 bases (54.12%)
+
+Time:                         	61.200 seconds.
+Reads Processed:       7390k 	120.76k reads/sec
+Bases Processed:        916m 	14.98m bases/sec
+Input is being processed as paired
+Executing jgi.ReformatReads [in1=L5_1.fq.gz, in2=L5_2.fq.gz, samplereadstarget=2000000, out1=L5_1_subsample.fq.gz, out2=L5_2_subsample.fq.gz]
+
+Executing jgi.ReformatReads [in1=L4_1.fq.gz, in2=L4_2.fq.gz, samplereadstarget=2000000, out1=L4_1_subsample.fq.gz, out2=L4_2_subsample.fq.gz]
+
+Input is being processed as paired
+Set INTERLEAVED to false
+Input:                  	7113756 reads          	897721032 bases
+Input is being processed as pairedOutput:                 	4000000 reads (56.23%) 	504750685 bases (56.23%)
+Set INTERLEAVED to false
+
+
+Time:                         	61.190 seconds.
+Reads Processed:       7113k 	116.26k reads/sec
+Bases Processed:        897m 	14.67m bases/sec
+Input:                  	7376402 reads          	925841898 bases
+Output:                 	4000000 reads (54.23%) 	502018856 bases (54.22%)
+
+Time:                         	62.014 seconds.
+Reads Processed:       7376k 	118.95k reads/sec
+Bases Processed:        925m 	14.93m bases/sec
+Input:                  	5318 reads          	770774 bases
+Output:                 	5318 reads (100.00%) 	770774 bases (100.00%)Input is being processed as paired
+
+
+Time:                         	1.143 seconds.
+Reads Processed:        5318 	4.65k reads/sec
+Bases Processed:        770k 	0.67m bases/sec
+Input:                  	7084096 reads          	911591433 bases
+Output:                 	4000000 reads (56.46%) 	514656451 bases (56.46%)
+
+Time:                         	61.544 seconds.
+Reads Processed:       7084k 	115.11k reads/sec
+Bases Processed:        911m 	14.81m bases/sec
+Input:                  	3370 reads          	490811 bases
+Output:                 	3370 reads (100.00%) 	490811 bases (100.00%)
+
+Time:                         	0.743 seconds.
+Reads Processed:        3370 	4.54k reads/sec
+Bases Processed:        490k 	0.66m bases/sec
+Input is being processed as paired
+Input:                  	8312118 reads          	1054917484 bases
+Output:                 	4000000 reads (48.12%) 	507586787 bases (48.12%)
+
+Time:                         	63.370 seconds.
+Reads Processed:       8312k 	131.17k reads/sec
+Bases Processed:       1054m 	16.65m bases/sec
+Input:                  	2378074 reads          	313877421 bases
+Output:                 	2378074 reads (100.00%) 	313877421 bases (100.00%)
+
+Time:                         	31.882 seconds.
+Reads Processed:       2378k 	74.59k reads/sec
+Bases Processed:        313m 	9.84m bases/sec
+Input:                  	7431948 reads          	955291269 bases
+Output:                 	4000000 reads (53.82%) 	514068277 bases (53.81%)
+
+Time:                         	62.630 seconds.
+Reads Processed:       7431k 	118.66k reads/sec
+Bases Processed:        955m 	15.25m bases/sec
+Input:                  	7973252 reads          	1002456862 bases
+Output:                 	4000000 reads (50.17%) 	502849689 bases (50.16%)
+
+Time:                         	63.102 seconds.
+Reads Processed:       7973k 	126.36k reads/sec
+Bases Processed:       1002m 	15.89m bases/sec
+Input:                  	8287900 reads          	1049283526 bases
+Output:                 	4000000 reads (48.26%) 	506413093 bases (48.26%)
+
+Time:                         	65.004 seconds.
+Reads Processed:       8287k 	127.50k reads/sec
+Bases Processed:       1049m 	16.14m bases/sec
+Input:                  	7679326 reads          	979757901 bases
+Input:                  	8134060 reads          	1016241138 basesOutput:                 	4000000 reads (52.09%) 	510347371 bases (52.09%)
+
+
+Time:                         	64.904 seconds.
+Reads Processed:       7679k 	118.32k reads/sec
+Bases Processed:        979m 	15.10m bases/sec
+Output:                 	4000000 reads (49.18%) 	499688405 bases (49.17%)
+
+Time:                         	65.334 seconds.
+Reads Processed:       8134k 	124.50k reads/sec
+Bases Processed:       1016m 	15.55m bases/sec
+Input:                  	223130 reads          	32705525 bases
+Output:                 	223130 reads (100.00%) 	32705525 bases (100.00%)
+
+Time:                         	4.774 seconds.
+Reads Processed:        223k 	46.73k reads/sec
+Bases Processed:      32705k 	6.85m bases/sec
+Input is being processed as paired
+Input:                  	2670454 reads          	354877300 bases
+Output:                 	2670454 reads (100.00%) 	354877300 bases (100.00%)
+
+Time:                         	35.945 seconds.
+Reads Processed:       2670k 	74.29k reads/sec
+Bases Processed:        354m 	9.87m bases/sec
+Input:                  	8640110 reads          	1084546409 bases
+Output:                 	4000000 reads (46.30%) 	502141617 bases (46.30%)
+
+Time:                         	67.041 seconds.
+Reads Processed:       8640k 	128.88k reads/sec
+Bases Processed:       1084m 	16.18m bases/sec
+Input:                  	8599042 reads          	1096681146 bases
+Output:                 	4000000 reads (46.52%) 	510108239 bases (46.51%)
+
+Time:                         	67.536 seconds.
+Reads Processed:       8599k 	127.33k reads/sec
+Bases Processed:       1096m 	16.24m bases/sec
+Input:                  	2795082 reads          	365501206 bases
+Output:                 	2795082 reads (100.00%) 	365501206 bases (100.00%)
+
+Time:                         	36.941 seconds.
+Reads Processed:       2795k 	75.66k reads/sec
+Bases Processed:        365m 	9.89m bases/sec
+Input:                  	8610514 reads          	1087334133 bases
+Output:                 	4000000 reads (46.45%) 	505150671 bases (46.46%)
+
+Time:                         	67.428 seconds.
+Reads Processed:       8610k 	127.70k reads/sec
+Bases Processed:       1087m 	16.13m bases/sec
+Input is being processed as paired
+Input is being processed as paired
+Input is being processed as paired
+Input:                  	9153664 reads          	1147321110 bases
+Output:                 	4000000 reads (43.70%) 	501370531 bases (43.70%)
+
+Input is being processed as pairedTime:                         	68.531 seconds.
+Reads Processed:       9153k 	133.57k reads/sec
+Bases Processed:       1147m 	16.74m bases/sec
+
+Input:                  	2647220 reads          	347290607 bases
+Output:                 	2647220 reads (100.00%) 	347290607 bases (100.00%)
+
+Time:                         	37.162 seconds.
+Reads Processed:       2647k 	71.23k reads/sec
+Bases Processed:        347m 	9.35m bases/sec
+Input is being processed as pairedInput:                  	2915890 reads          	382872568 bases
+
+Output:                 	2915890 reads (100.00%) 	382872568 bases (100.00%)
+
+Time:                         	38.838 seconds.
+Reads Processed:       2915k 	75.08k reads/sec
+Bases Processed:        382m 	9.86m bases/sec
+Input is being processed as paired
+Input is being processed as paired
+Input:                  	9435240 reads          	1189655048 bases
+Output:                 	4000000 reads (42.39%) 	504339844 bases (42.39%)
+
+Time:                         	70.309 seconds.
+Reads Processed:       9435k 	134.20k reads/sec
+Bases Processed:       1189m 	16.92m bases/sec
+Input is being processed as paired
+Input is being processed as paired
+Input is being processed as paired
+Input is being processed as paired
+Input:                  	2801636 reads          	406839920 bases
+Output:                 	2801636 reads (100.00%) 	406839920 bases (100.00%)
+
+Time:                         	42.305 seconds.
+Reads Processed:       2801k 	66.22k reads/sec
+Bases Processed:        406m 	9.62m bases/sec
+Input:                  	1896408 reads          	272023815 bases
+Output:                 	1896408 reads (100.00%) 	272023815 bases (100.00%)
+
+Time:                         	29.236 seconds.
+Reads Processed:       1896k 	64.86k reads/sec
+Bases Processed:        272m 	9.30m bases/sec
+Input:                  	3431640 reads          	446863073 bases
+Output:                 	3431640 reads (100.00%) 	446863073 bases (100.00%)
+
+Time:                         	44.421 seconds.
+Reads Processed:       3431k 	77.25k reads/sec
+Bases Processed:        446m 	10.06m bases/sec
+Input:                  	2991518 reads          	425182802 bases
+Output:                 	2991518 reads (100.00%) 	425182802 bases (100.00%)
+
+Time:                         	44.336 seconds.
+Reads Processed:       2991k 	67.47k reads/sec
+Bases Processed:        425m 	9.59m bases/sec
+Input:                  	2020860 reads          	291128285 basesInput:                  	2927460 reads          	425011360 bases
+
+Output:                 	2927460 reads (100.00%) 	425011360 bases (100.00%)
+
+Time:                         	44.495 seconds.
+Reads Processed:       2927k 	65.79k reads/sec
+Bases Processed:        425m 	9.55m bases/sec
+Output:                 	2020860 reads (100.00%) 	291128285 bases (100.00%)
+
+Time:                         	30.098 seconds.
+Reads Processed:       2020k 	67.14k reads/sec
+Bases Processed:        291m 	9.67m bases/sec
+Input:                  	11058240 reads          	1391340280 bases
+Output:                 	4000000 reads (36.17%) 	503249253 bases (36.17%)
+
+Time:                         	76.369 seconds.
+Reads Processed:      11058k 	144.80k reads/sec
+Bases Processed:       1391m 	18.22m bases/sec
+Input is being processed as paired
+Input:                  	2238724 reads          	311239447 bases
+Output:                 	2238724 reads (100.00%) 	311239447 bases (100.00%)
+
+Time:                         	31.395 seconds.
+Reads Processed:       2238k 	71.31k reads/sec
+Bases Processed:        311m 	9.91m bases/sec
+Input:                  	3435098 reads          	442754316 bases
+Output:                 	3435098 reads (100.00%) 	442754316 bases (100.00%)
+
+Time:                         	46.492 seconds.
+Reads Processed:       3435k 	73.89k reads/sec
+Bases Processed:        442m 	9.52m bases/sec
+Input:                  	3748314 reads          	495542931 bases
+Output:                 	3748314 reads (100.00%) 	495542931 bases (100.00%)
+
+Time:                         	48.201 seconds.
+Reads Processed:       3748k 	77.76k reads/sec
+Bases Processed:        495m 	10.28m bases/sec
+Input:                  	2338896 reads          	334847957 bases
+Output:                 	2338896 reads (100.00%) 	334847957 bases (100.00%)
+
+Time:                         	36.705 seconds.
+Reads Processed:       2338k 	63.72k reads/sec
+Bases Processed:        334m 	9.12m bases/sec
+Input:                  	2635376 reads          	352499412 bases
+Output:                 	2635376 reads (100.00%) 	352499412 bases (100.00%)
+
+Time:                         	35.097 seconds.
+Reads Processed:       2635k 	75.09k reads/sec
+Bases Processed:        352m 	10.04m bases/sec
+Input:                  	4164568 reads          	541506833 bases
+Output:                 	4000000 reads (96.05%) 	520125541 bases (96.05%)
+
+Time:                         	50.936 seconds.
+Reads Processed:       4164k 	81.76k reads/sec
+Bases Processed:        541m 	10.63m bases/sec
+Input:                  	3550386 reads          	510313329 bases
+Output:                 	3550386 reads (100.00%) 	510313329 bases (100.00%)
+
+Time:                         	50.087 seconds.
+Reads Processed:       3550k 	70.88k reads/sec
+Bases Processed:        510m 	10.19m bases/sec
+Input:                  	2569134 reads          	372821406 bases
+Output:                 	2569134 reads (100.00%) 	372821406 bases (100.00%)
+
+Time:                         	36.292 seconds.
+Reads Processed:       2569k 	70.79k reads/sec
+Bases Processed:        372m 	10.27m bases/sec
+Input:                  	4304744 reads          	556063160 basesInput is being processed as paired
+
+Output:                 	4000000 reads (92.92%) 	516693528 bases (92.92%)
+
+Time:                         	51.749 seconds.
+Reads Processed:       4304k 	83.18k reads/sec
+Bases Processed:        556m 	10.75m bases/sec
+Input:                  	4330236 reads          	570602419 bases
+Output:                 	4000000 reads (92.37%) 	527054643 bases (92.37%)
+
+Time:                         	52.525 seconds.
+Reads Processed:       4330k 	82.44k reads/sec
+Bases Processed:        570m 	10.86m bases/sec
+Input:                  	2666600 reads          	387480330 bases
+Output:                 	2666600 reads (100.00%) 	387480330 bases (100.00%)
+
+Time:                         	38.831 seconds.
+Reads Processed:       2666k 	68.67k reads/sec
+Bases Processed:        387m 	9.98m bases/sec
+Input:                  	4688102 reads          	619908776 bases
+Output:                 	4000000 reads (85.32%) 	528927041 bases (85.32%)
+
+Time:                         	54.316 seconds.
+Reads Processed:       4688k 	86.31k reads/sec
+Bases Processed:        619m 	11.41m bases/sec
+Input:                  	4059186 reads          	529811699 bases
+Output:                 	4000000 reads (98.54%) 	522086046 bases (98.54%)
+
+Time:                         	53.248 seconds.
+Reads Processed:       4059k 	76.23k reads/sec
+Bases Processed:        529m 	9.95m bases/sec
+Input:                  	4793264 reads          	623779833 bases
+Output:                 	4000000 reads (83.45%) 	520504668 bases (83.44%)
+
+Time:                         	55.057 seconds.
+Reads Processed:       4793k 	87.06k reads/sec
+Bases Processed:        623m 	11.33m bases/sec
+Input:                  	2823118 reads          	410853527 bases
+Output:                 	2823118 reads (100.00%) 	410853527 bases (100.00%)
+
+Time:                         	39.536 seconds.
+Reads Processed:       2823k 	71.41k reads/sec
+Bases Processed:        410m 	10.39m bases/sec
+Input:                  	4782090 reads          	631885306 bases
+Output:                 	4000000 reads (83.65%) 	528571678 bases (83.65%)
+
+Time:                         	55.025 seconds.
+Reads Processed:       4782k 	86.91k reads/sec
+Bases Processed:        631m 	11.48m bases/sec
+Input:                  	2784376 reads          	400935547 bases
+Input:                  	4422906 reads          	579619425 bases
+Output:                 	2784376 reads (100.00%) 	400935547 bases (100.00%)
+Output:                 	4000000 reads (90.44%) 	524168477 bases (90.43%)
+
+Time:                         	39.953 seconds.
+Reads Processed:       2784k 	69.69k reads/sec
+Bases Processed:        400m 	10.04m bases/sec
+
+Time:                         	54.207 seconds.
+Reads Processed:       4422k 	81.59k reads/sec
+Bases Processed:        579m 	10.69m bases/sec
+Input:                  	3142598 reads          	428117712 bases
+Output:                 	3142598 reads (100.00%) 	428117712 bases (100.00%)
+
+Time:                         	42.634 seconds.
+Reads Processed:       3142k 	73.71k reads/sec
+Bases Processed:        428m 	10.04m bases/sec
+Input:                  	5267922 reads          	667803705 bases
+Output:                 	4000000 reads (75.93%) 	507058213 bases (75.93%)
+
+Time:                         	56.464 seconds.
+Reads Processed:       5267k 	93.30k reads/sec
+Bases Processed:        667m 	11.83m bases/sec
+Input:                  	3097128 reads          	449999934 bases
+Output:                 	3097128 reads (100.00%) 	449999934 bases (100.00%)
+
+Time:                         	42.579 seconds.
+Reads Processed:       3097k 	72.74k reads/sec
+Bases Processed:        449m 	10.57m bases/sec
+Input:                  	4915002 reads          	650081478 bases
+Output:                 	4000000 reads (81.38%) 	529049317 bases (81.38%)
+
+Time:                         	56.968 seconds.
+Reads Processed:       4915k 	86.28k reads/sec
+Bases Processed:        650m 	11.41m bases/sec
+Input:                  	4516136 reads          	654256295 bases
+Output:                 	4000000 reads (88.57%) 	579470282 bases (88.57%)
+
+Time:                         	57.334 seconds.
+Reads Processed:       4516k 	78.77k reads/sec
+Bases Processed:        654m 	11.41m bases/sec
+Input:                  	5154246 reads          	699201757 bases
+Output:                 	4000000 reads (77.61%) 	542642640 bases (77.61%)
+
+Time:                         	57.795 seconds.
+Reads Processed:       5154k 	89.18k reads/sec
+Bases Processed:        699m 	12.10m bases/sec
+Input:                  	3383954 reads          	460090677 bases
+Output:                 	3383954 reads (100.00%) 	460090677 bases (100.00%)
+
+Time:                         	44.184 seconds.
+Reads Processed:       3383k 	76.59k reads/sec
+Bases Processed:        460m 	10.41m bases/sec
+Input:                  	3175084 reads          	456073738 bases
+Output:                 	3175084 reads (100.00%) 	456073738 bases (100.00%)
+
+Time:                         	43.871 seconds.
+Reads Processed:       3175k 	72.37k reads/sec
+Bases Processed:        456m 	10.40m bases/sec
+Input:                  	3230146 reads          	468316193 bases
+Output:                 	3230146 reads (100.00%) 	468316193 bases (100.00%)
+
+Time:                         	44.908 seconds.
+Reads Processed:       3230k 	71.93k reads/sec
+Bases Processed:        468m 	10.43m bases/sec
+Input:                  	4508842 reads          	647279694 bases
+Output:                 	4000000 reads (88.71%) 	574225717 bases (88.71%)
+
+Time:                         	58.651 seconds.
+Reads Processed:       4508k 	76.88k reads/sec
+Bases Processed:        647m 	11.04m bases/sec
+Input:                  	3970158 reads          	570768376 bases
+Input:                  	5172816 reads          	681554094 bases
+Output:                 	4000000 reads (77.33%) 	526990887 bases (77.32%)Output:                 	3970158 reads (100.00%) 	570768376 bases (100.00%)
+
+
+
+Time:                         	58.640 seconds.
+Reads Processed:       5172k 	88.21k reads/sec
+Bases Processed:        681m 	11.62m bases/sec
+Time:                         	58.866 seconds.
+Reads Processed:       3970k 	67.44k reads/sec
+Bases Processed:        570m 	9.70m bases/sec
+Input:                  	4699612 reads          	649424790 bases
+Output:                 	4000000 reads (85.11%) 	552767707 bases (85.12%)
+
+Time:                         	59.036 seconds.
+Reads Processed:       4699k 	79.61k reads/sec
+Bases Processed:        649m 	11.00m bases/sec
+Input is being processed as paired
+Input:                  	5652820 reads          	739735324 bases
+Output:                 	4000000 reads (70.76%) 	523429289 bases (70.76%)
+
+Time:                         	59.903 seconds.
+Reads Processed:       5652k 	94.37k reads/sec
+Bases Processed:        739m 	12.35m bases/sec
+Input:                  	3303216 reads          	475672924 bases
+Output:                 	3303216 reads (100.00%) 	475672924 bases (100.00%)
+
+Time:                         	46.530 seconds.
+Reads Processed:       3303k 	70.99k reads/sec
+Bases Processed:        475m 	10.22m bases/sec
+Input:                  	5897880 reads          	770363019 bases
+Output:                 	4000000 reads (67.82%) 	522452661 bases (67.82%)
+
+Time:                         	60.991 seconds.
+Reads Processed:       5897k 	96.70k reads/sec
+Bases Processed:        770m 	12.63m bases/sec
+Input:                  	5951786 reads          	782758691 bases
+Output:                 	4000000 reads (67.21%) 	526040788 bases (67.20%)
+
+Time:                         	61.320 seconds.
+Reads Processed:       5951k 	97.06k reads/sec
+Bases Processed:        782m 	12.77m bases/sec
+Input:                  	6722492 reads          	844345254 bases
+Output:                 	4000000 reads (59.50%) 	502360887 bases (59.50%)
+
+Time:                         	63.025 seconds.
+Reads Processed:       6722k 	106.66k reads/sec
+Bases Processed:        844m 	13.40m bases/sec
+Input:                  	6431730 reads          	843628357 bases
+Input:                  	7393804 reads          	937022410 basesOutput:                 	4000000 reads (62.19%) 	524654766 bases (62.19%)
+
+
+Time:                         	63.817 seconds.
+Reads Processed:       6431k 	100.78k reads/sec
+Bases Processed:        843m 	13.22m bases/sec
+Output:                 	4000000 reads (54.10%) 	506996505 bases (54.11%)
+
+Time:                         	64.646 seconds.
+Reads Processed:       7393k 	114.37k reads/sec
+Bases Processed:        937m 	14.49m bases/sec
+Input:                  	2679174 reads          	388277250 bases
+Output:                 	2679174 reads (100.00%) 	388277250 bases (100.00%)
+
+Time:                         	36.277 seconds.
+Reads Processed:       2679k 	73.85k reads/sec
+Bases Processed:        388m 	10.70m bases/sec
+Input:                  	2763598 reads          	372822520 bases
+Output:                 	2763598 reads (100.00%) 	372822520 bases (100.00%)
+
+Time:                         	37.007 seconds.
+Reads Processed:       2763k 	74.68k reads/sec
+Bases Processed:        372m 	10.07m bases/sec
+Input:                  	5795958 reads          	831812555 bases
+Output:                 	4000000 reads (69.01%) 	574055825 bases (69.01%)
+
+Time:                         	65.813 seconds.
+Reads Processed:       5795k 	88.07k reads/sec
+Bases Processed:        831m 	12.64m bases/sec
+Input:                  	7157452 reads          	931304214 bases
+Output:                 	4000000 reads (55.89%) 	520465650 bases (55.89%)
+
+Time:                         	66.811 seconds.
+Reads Processed:       7157k 	107.13k reads/sec
+Bases Processed:        931m 	13.94m bases/sec
+Input:                  	4152020 reads          	563770591 bases
+Output:                 	4000000 reads (96.34%) 	543118118 bases (96.34%)
+
+Time:                         	52.612 seconds.
+Reads Processed:       4152k 	78.92k reads/sec
+Bases Processed:        563m 	10.72m bases/sec
+Input:                  	4155880 reads          	578992626 bases
+Output:                 	4000000 reads (96.25%) 	557273682 bases (96.25%)
+
+Time:                         	53.981 seconds.
+Reads Processed:       4155k 	76.99k reads/sec
+Bases Processed:        578m 	10.73m bases/sec
+Input:                  	7468742 reads          	952488316 bases
+Output:                 	4000000 reads (53.56%) 	510136998 bases (53.56%)
+
+Time:                         	68.063 seconds.
+Reads Processed:       7468k 	109.73k reads/sec
+Bases Processed:        952m 	13.99m bases/sec
+Input:                  	7519170 reads          	977735115 bases
+Output:                 	4000000 reads (53.20%) 	520167070 bases (53.20%)
+
+Time:                         	68.314 seconds.
+Reads Processed:       7519k 	110.07k reads/sec
+Bases Processed:        977m 	14.31m bases/sec
+Input:                  	4362706 reads          	603168193 bases
+Output:                 	4000000 reads (91.69%) 	553029026 bases (91.69%)
+
+Time:                         	54.187 seconds.
+Reads Processed:       4362k 	80.51k reads/sec
+Bases Processed:        603m 	11.13m bases/sec
+Input:                  	4214634 reads          	604624753 bases
+Output:                 	4000000 reads (94.91%) 	573838577 bases (94.91%)
+
+Time:                         	54.660 seconds.
+Reads Processed:       4214k 	77.11k reads/sec
+Bases Processed:        604m 	11.06m bases/sec
+Input:                  	3989856 reads          	578254507 bases
+Output:                 	3989856 reads (100.00%) 	578254507 bases (100.00%)
+
+Time:                         	54.891 seconds.
+Reads Processed:       3989k 	72.69k reads/sec
+Bases Processed:        578m 	10.53m bases/sec
+Input:                  	2927684 reads          	423385217 bases
+Output:                 	2927684 reads (100.00%) 	423385217 bases (100.00%)
+
+Time:                         	40.854 seconds.
+Reads Processed:       2927k 	71.66k reads/sec
+Bases Processed:        423m 	10.36m bases/sec
+Input:                  	6615698 reads          	958433183 bases
+Output:                 	4000000 reads (60.46%) 	579499171 bases (60.46%)
+
+Time:                         	69.988 seconds.
+Reads Processed:       6615k 	94.53k reads/sec
+Bases Processed:        958m 	13.69m bases/sec
+Input:                  	3381424 reads          	471001899 bases
+Input:                  	5170704 reads          	693301034 bases
+Output:                 	3381424 reads (100.00%) 	471001899 bases (100.00%)
+Output:                 	4000000 reads (77.36%) 	536347960 bases (77.36%)
+
+
+Time:                         	41.493 seconds.
+Reads Processed:       3381k 	81.49k reads/sec
+Bases Processed:        471m 	11.35m bases/sec
+Time:                         	55.648 seconds.
+Reads Processed:       5170k 	92.92k reads/sec
+Bases Processed:        693m 	12.46m bases/sec
+Input:                  	6447234 reads          	891044942 bases
+Output:                 	4000000 reads (62.04%) 	552814713 bases (62.04%)
+
+Time:                         	70.023 seconds.
+Reads Processed:       6447k 	92.07k reads/sec
+Bases Processed:        891m 	12.73m bases/sec
+Input:                  	3411664 reads          	488201133 bases
+Output:                 	3411664 reads (100.00%) 	488201133 bases (100.00%)
+
+Time:                         	41.738 seconds.
+Reads Processed:       3411k 	81.74k reads/sec
+Bases Processed:        488m 	11.70m bases/sec
+Input:                  	4376474 reads          	634542028 bases
+Output:                 	4000000 reads (91.40%) 	579972215 bases (91.40%)
+
+Time:                         	56.151 seconds.
+Reads Processed:       4376k 	77.94k reads/sec
+Bases Processed:        634m 	11.30m bases/sec
+Input:                  	4498052 reads          	653141892 bases
+Output:                 	4000000 reads (88.93%) 	580826482 bases (88.93%)
+
+Time:                         	56.375 seconds.
+Reads Processed:       4498k 	79.79k reads/sec
+Bases Processed:        653m 	11.59m bases/sec
+Input:                  	8100896 reads          	1032959257 bases
+Output:                 	4000000 reads (49.38%) 	510084218 bases (49.38%)
+
+Time:                         	71.022 seconds.
+Reads Processed:       8100k 	114.06k reads/sec
+Bases Processed:       1032m 	14.54m bases/sec
+Input:                  	4270520 reads          	618477990 bases
+Output:                 	4000000 reads (93.67%) 	579291573 bases (93.66%)
+
+Time:                         	57.481 seconds.
+Reads Processed:       4270k 	74.29k reads/sec
+Bases Processed:        618m 	10.76m bases/sec
+Input:                  	4495416 reads          	645542787 bases
+Output:                 	4000000 reads (88.98%) 	574399016 bases (88.98%)
+
+Time:                         	59.995 seconds.
+Reads Processed:       4495k 	74.93k reads/sec
+Bases Processed:        645m 	10.76m bases/sec
+Input:                  	8558350 reads          	1126086586 bases
+Output:                 	4000000 reads (46.74%) 	526204027 bases (46.73%)
+
+Time:                         	73.066 seconds.
+Reads Processed:       8558k 	117.13k reads/sec
+Bases Processed:       1126m 	15.41m bases/sec
+Input:                  	5178450 reads          	746620405 bases
+Output:                 	4000000 reads (77.24%) 	576716782 bases (77.24%)
+
+Time:                         	61.614 seconds.
+Reads Processed:       5178k 	84.05k reads/sec
+Bases Processed:        746m 	12.12m bases/sec
+Input:                  	9044352 reads          	1178938591 bases
+Output:                 	4000000 reads (44.23%) 	521406996 bases (44.23%)
+
+Time:                         	75.226 seconds.
+Reads Processed:       9044k 	120.23k reads/sec
+Bases Processed:       1178m 	15.67m bases/sec
+Input:                  	9092718 reads          	1169501539 bases
+Output:                 	4000000 reads (43.99%) 	514498151 bases (43.99%)
+
+Time:                         	75.468 seconds.
+Reads Processed:       9092k 	120.48k reads/sec
+Bases Processed:       1169m 	15.50m bases/sec
+Input:                  	9897886 reads          	1212412543 bases
+Output:                 	4000000 reads (40.41%) 	490045775 bases (40.42%)
+
+Time:                         	75.744 seconds.
+Reads Processed:       9897k 	130.68k reads/sec
+Bases Processed:       1212m 	16.01m bases/sec
+Input:                  	5926878 reads          	812161956 bases
+Output:                 	4000000 reads (67.49%) 	548116278 bases (67.49%)
+
+Time:                         	62.543 seconds.
+Reads Processed:       5926k 	94.77k reads/sec
+Bases Processed:        812m 	12.99m bases/sec
+Input:                  	5955860 reads          	869781516 bases
+Output:                 	4000000 reads (67.16%) 	584139389 bases (67.16%)
+
+Time:                         	62.417 seconds.
+Reads Processed:       5955k 	95.42k reads/sec
+Bases Processed:        869m 	13.93m bases/sec
+Input:                  	6131712 reads          	875759185 bases
+Output:                 	4000000 reads (65.23%) 	571289890 bases (65.23%)
+
+Time:                         	64.718 seconds.
+Reads Processed:       6131k 	94.74k reads/sec
+Bases Processed:        875m 	13.53m bases/sec
+Input:                  	6125152 reads          	894580839 bases
+Output:                 	4000000 reads (65.30%) 	584207232 bases (65.31%)
+
+Time:                         	63.742 seconds.
+Reads Processed:       6125k 	96.09k reads/sec
+Bases Processed:        894m 	14.03m bases/sec
+Input:                  	6119946 reads          	880518363 bases
+Output:                 	4000000 reads (65.36%) 	575515920 bases (65.36%)
+
+Time:                         	64.355 seconds.
+Reads Processed:       6119k 	95.10k reads/sec
+Bases Processed:        880m 	13.68m bases/sec
+Input:                  	6111704 reads          	886042678 bases
+Input:                  	3737116 reads          	536980677 bases
+Output:                 	4000000 reads (65.45%) 	579900551 bases (65.45%)
+
+Time:                         	65.383 seconds.
+Reads Processed:       6111k 	93.48k reads/sec
+Bases Processed:        886m 	13.55m bases/sec
+Output:                 	3737116 reads (100.00%) 	536980677 bases (100.00%)
+
+Time:                         	50.387 seconds.
+Reads Processed:       3737k 	74.17k reads/sec
+Bases Processed:        536m 	10.66m bases/sec
+Input:                  	9986186 reads          	1287338731 bases
+Output:                 	4000000 reads (40.06%) 	515596294 bases (40.05%)
+
+Time:                         	79.372 seconds.
+Reads Processed:       9986k 	125.82k reads/sec
+Bases Processed:       1287m 	16.22m bases/sec
+Input:                  	3868070 reads          	565404181 bases
+Output:                 	3868070 reads (100.00%) 	565404181 bases (100.00%)
+
+Time:                         	51.482 seconds.
+Reads Processed:       3868k 	75.13k reads/sec
+Bases Processed:        565m 	10.98m bases/sec
+Input:                  	6948010 reads          	999502356 bases
+Output:                 	4000000 reads (57.57%) 	575397200 bases (57.57%)
+
+Time:                         	68.357 seconds.
+Reads Processed:       6948k 	101.64k reads/sec
+Bases Processed:        999m 	14.62m bases/sec
+Input:                  	4274562 reads          	618785106 bases
+Output:                 	4000000 reads (93.58%) 	579048918 bases (93.58%)
+
+Time:                         	53.893 seconds.
+Reads Processed:       4274k 	79.32k reads/sec
+Bases Processed:        618m 	11.48m bases/sec
+Input:                  	4134034 reads          	600513816 bases
+Output:                 	4000000 reads (96.76%) 	581045719 bases (96.76%)
+
+Time:                         	54.353 seconds.
+Reads Processed:       4134k 	76.06k reads/sec
+Bases Processed:        600m 	11.05m bases/sec
+Input:                  	4587766 reads          	651294001 bases
+Output:                 	4000000 reads (87.19%) 	567863547 bases (87.19%)
+
+Time:                         	55.181 seconds.
+Reads Processed:       4587k 	83.14k reads/sec
+Bases Processed:        651m 	11.80m bases/sec
+Input:                  	4893526 reads          	700001812 bases
+Output:                 	4000000 reads (81.74%) 	572194441 bases (81.74%)
+
+Time:                         	56.459 seconds.
+Reads Processed:       4893k 	86.67k reads/sec
+Bases Processed:        700m 	12.40m bases/sec
+Input:                  	5081496 reads          	733091964 bases
+Output:                 	4000000 reads (78.72%) 	577090039 bases (78.72%)
+
+Time:                         	58.943 seconds.
+Reads Processed:       5081k 	86.21k reads/sec
+Bases Processed:        733m 	12.44m bases/sec
+Input:                  	8366888 reads          	1182641695 bases
+Output:                 	4000000 reads (47.81%) 	565404433 bases (47.81%)
+
+Time:                         	68.832 seconds.
+Reads Processed:       8366k 	121.56k reads/sec
+Bases Processed:       1182m 	17.18m bases/sec
+Input is being processed as paired
+Input:                  	12116990 reads          	1545223922 bases
+Output:                 	4000000 reads (33.01%) 	510098478 bases (33.01%)
+
+Time:                         	79.707 seconds.
+Reads Processed:      12116k 	152.02k reads/sec
+Bases Processed:       1545m 	19.39m bases/sec
+Input:                  	15834742 reads          	1993397720 bases
+Output:                 	4000000 reads (25.26%) 	503505818 bases (25.26%)
+
+Time:                         	86.513 seconds.
+Reads Processed:      15834k 	183.03k reads/sec
+Bases Processed:       1993m 	23.04m bases/sec
+Input:                  	28676814 reads          	3666648483 bases
+Output:                 	4000000 reads (13.95%) 	511416061 bases (13.95%)
+
+Time:                         	148.922 seconds.
+Reads Processed:      28676k 	192.56k reads/sec
+Bases Processed:       3666m 	24.62m bases/sec
+Input:                  	39793116 reads          	5053361489 bases
+Output:                 	4000000 reads (10.05%) 	507985379 bases (10.05%)
+
+Time:                         	171.600 seconds.
+Reads Processed:      39793k 	231.89k reads/sec
+Bases Processed:       5053m 	29.45m bases/sec
